@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "37dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s7e6e4b430474beb85609c33e4ab887a",
+    "_text_": "ENTRAR",
+    "_top_": {
+        "type": "string",
+        "value": "437dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "300dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sb16f22ec70546c987cae606d034d675",
+    "id": "botonentrar",
+    "ide_onClick": "AS_Button_ba84daa286744082aec68258976133c9",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "c9e8584b9b7d4d8d9d27c41b4a974c69",
+    "name": "kony.ui.Button",
+    "parent": "flex1",
+    "pf": "screen1",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

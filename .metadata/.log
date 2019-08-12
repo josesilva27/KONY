@@ -1,0 +1,2131 @@
+!SESSION 2019-08-12 15:10:55.400 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_VE
+Framework arguments:  -perspective com.pat.tool.keditor.perspective.KonyPerspective -application org.eclipse.ui.ide.workbench -product com.kony.ide.paas.branding.studio
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective com.pat.tool.keditor.perspective.KonyPerspective -application org.eclipse.ui.ide.workbench -product com.kony.ide.paas.branding.studio
+
+!ENTRY org.eclipse.ui 2 0 2019-08-12 15:11:16.434
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2019-08-12 15:11:16.434
+!MESSAGE Defining a key binding with no key sequence has no effect: plug-in='com.pat.tool.keditor', id='com.pat.tool.keditor.cleanAndBuildCommand'
+!SUBENTRY 1 org.eclipse.ui 2 0 2019-08-12 15:11:16.434
+!MESSAGE Cannot bind to an undefined command: plug-in='com.pat.tool.keditor', id='com.pat.tool.keditor.applicationpublish'
+
+!ENTRY com.kony.ide.paas.branding 1 0 2019-08-12 15:11:18.986
+!MESSAGE Time taken for loading Studio plugin: 2501
+
+!ENTRY com.kony.ide.paas.branding 1 0 2019-08-12 15:11:29.218
+!MESSAGE Time taken for loading node plugins: 10225
+
+!ENTRY org.eclipse.ui 4 4 2019-08-12 15:11:32.868
+!MESSAGE Conflicting handlers for com.pat.tool.keditor.command.appviewer: {com.kony.studio.menus.handlers.HelpEventHandler} vs {com.kony.studio.menus.handlers.HelpEventHandler}
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-08-12 15:11:42.526
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\b703079'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:47.076
+!MESSAGE Found installation dir: D:\kony8.1\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:48.260
+!MESSAGE Found installation dir: D:\kony8.1\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:48.265
+!MESSAGE Found installation dir: D:\kony8.1\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:48.271
+!MESSAGE Both are same.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:48.275
+!MESSAGE Found installation dir: D:\kony8.1\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:48.283
+!MESSAGE Found installation dir: D:\kony8.1\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:48.291
+!MESSAGE Found installation dir: D:\kony8.1\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:48.296
+!MESSAGE Found installation dir: D:\kony8.1\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:48.301
+!MESSAGE Found installation dir: D:\kony8.1\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 2 0 2019-08-12 15:11:48.357
+!MESSAGE Unable to find defaultemumetadata.json file from C:/Users/b703079/Desktop/workspacekony/ProyectoJoseLuis\_ios\defaultemulator\defaultemumetadata.json location.
+
+!ENTRY com.pat.tool.keditor 2 0 2019-08-12 15:11:48.362
+!MESSAGE Unable to get target versions of the mac machine as file 'iOSPropsUnderVisualizer.json' not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:48.380
+!MESSAGE Eclipse opened time: ago 12, 2019 15:11 PM
+
+!ENTRY com.pat.tool.keditor 2 0 2019-08-12 15:11:48.475
+!MESSAGE blackberry_50 key does not exist in the globalpreferences.json file.
+
+!ENTRY com.pat.tool.keditor 2 0 2019-08-12 15:11:48.480
+!MESSAGE blackberry_60 key does not exist in the globalpreferences.json file.
+
+!ENTRY com.pat.tool.keditor 2 0 2019-08-12 15:11:48.485
+!MESSAGE blackberry_70 key does not exist in the globalpreferences.json file.
+
+!ENTRY com.pat.tool.keditor 2 0 2019-08-12 15:11:48.491
+!MESSAGE windows_phone key does not exist in the globalpreferences.json file.
+
+!ENTRY com.pat.tool.keditor 2 0 2019-08-12 15:11:48.496
+!MESSAGE enableMetrics key does not exist in the globalpreferences.json file.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:48.601
+!MESSAGE PLUGIN DETAILS: com.kony.windows:8.4.27.v201907120000::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:48.605
+!MESSAGE PLUGIN DETAILS: com.pat.j2me:::false
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:48.611
+!MESSAGE PLUGIN DETAILS: com.kony.bb10:::false
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:48.616
+!MESSAGE PLUGIN DETAILS: com.pat.winmobile:::false
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:48.654
+!MESSAGE PLUGIN DETAILS: com.kony.windowsphone8:8.4.20.v201906060040::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:48.659
+!MESSAGE PLUGIN DETAILS: com.kony.windowsphone8:8.4.20.v201906060040::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:48.709
+!MESSAGE PLUGIN DETAILS: com.kony.windows8:8.4.27.v201907112351::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:48.812
+!MESSAGE PLUGIN DETAILS: com.kony.windows10:8.4.27.v201907112351::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:48.817
+!MESSAGE PLUGIN DETAILS: com.pat.winmobile6x:::false
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:48.888
+!MESSAGE PLUGIN DETAILS: com.pat.android:8.4.27.v201907120001::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:48.951
+!MESSAGE PLUGIN DETAILS: com.pat.tabrcandroid:8.4.27.v201907120001::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:48.955
+!MESSAGE PLUGIN DETAILS: com.kony.nativecodegen:::false
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:49.059
+!MESSAGE PLUGIN DETAILS: com.kony.spa:8.4.27.v201907121232::true
+
+!ENTRY org.eclipse.osgi 2 0 2019-08-12 15:11:49.125
+!MESSAGE While loading class "com.pat.tool.keditor.actions.ResourceDeleteAction", thread "Thread[Thread-6,5,main]" timed out waiting (5002ms) for thread "Thread[main,6,main]" to finish starting bundle "com.pat.tool.keditor_8.4.25.v201907031729 [505]". To avoid deadlock, thread "Thread[Thread-6,5,main]" is proceeding but "com.pat.tool.keditor.actions.ResourceDeleteAction" may not be fully initialized.
+!STACK 0
+org.osgi.framework.BundleException: State change in progress for bundle "reference:file:plugins/com.pat.tool.keditor_8.4.25.v201907031729.jar" by thread "main".
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.beginStateChange(AbstractBundle.java:1088)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.start(AbstractBundle.java:298)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:478)
+	at org.eclipse.osgi.internal.loader.BundleLoader.setLazyTrigger(BundleLoader.java:263)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:109)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass(ClasspathManager.java:469)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.findLocalClass(DefaultClassLoader.java:216)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.SingleSourcePackage.loadClass(SingleSourcePackage.java:35)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:461)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at com.kony.studio.cloud.exportimport.DeleteProject.run(DeleteProject.java:60)
+Caused by: org.eclipse.osgi.framework.internal.core.AbstractBundle$BundleStatusException
+	... 15 more
+Root exception:
+org.eclipse.osgi.framework.internal.core.AbstractBundle$BundleStatusException
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.beginStateChange(AbstractBundle.java:1088)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.start(AbstractBundle.java:298)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:478)
+	at org.eclipse.osgi.internal.loader.BundleLoader.setLazyTrigger(BundleLoader.java:263)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:109)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass(ClasspathManager.java:469)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.findLocalClass(DefaultClassLoader.java:216)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.SingleSourcePackage.loadClass(SingleSourcePackage.java:35)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:461)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at com.kony.studio.cloud.exportimport.DeleteProject.run(DeleteProject.java:60)
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:49.148
+!MESSAGE PLUGIN DETAILS: com.kony.desktopweb:8.4.27.v201907121236::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:49.197
+!MESSAGE PLUGIN DETAILS: com.kony.webcommons:8.4.20.201905292229::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:49.249
+!MESSAGE PLUGIN DETAILS: com.kony.ios:8.4.27.v201907121858::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:49.254
+!MESSAGE USER LOCATION: file:/C:/Users/b703079/user/
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:49.259
+!MESSAGE IDE BUNDLE LOCATION: /D:/kony8.1/Kony_Visualizer_Enterprise/configuration/org.eclipse.osgi/bundles/505/1/.cp/
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:49.485
+!MESSAGE 'com.kony.help' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:49.490
+!MESSAGE 'com.kony.nativecodegen' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:49.650
+!MESSAGE 'com.kony.cloudtc' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:49.723
+!MESSAGE 'com.kony.studio.sky' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:49.978
+!MESSAGE 'com.kony.studio.viz.chrome.mac64' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:49.994
+!MESSAGE 'com.kony.studio.viz.core.mac64' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:50.001
+!MESSAGE 'com.kony.studio.viz.nodejs.mac64' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:50.051
+!MESSAGE 'com.pat.j2me' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:50.056
+!MESSAGE 'com.kony.bb10' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:50.062
+!MESSAGE 'com.pat.winmobile' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:50.103
+!MESSAGE 'com.pat.winmobile6x' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:50.108
+!MESSAGE 'com.pat.brew' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:50.114
+!MESSAGE 'com.pat.palm' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:50.174
+!MESSAGE 'com.pat.playbook' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:50.232
+!MESSAGE 'com.pat.qt' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:50.242
+!MESSAGE 'com.pat.andcodeinjection' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:50.253
+!MESSAGE 'com.pat.bbcodeinjection' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:50.263
+!MESSAGE 'com.pat.iospolicyinjection' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:50.425
+!MESSAGE 'tk.eclipse.plugin.htmleditor' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:50.431
+!MESSAGE 'com.kony.video' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:50.440
+!MESSAGE Plugin Details are stored successfully at C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\konyplugins.xml.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:11:51.876
+!MESSAGE Found installation dir: D:\kony8.1\Kony_Visualizer_Enterprise
+
+!ENTRY org.eclipse.osgi 2 0 2019-08-12 15:11:54.153
+!MESSAGE While loading class "com.pat.tool.keditor.actions.ResourceDeleteAction$1", thread "Thread[Thread-6,5,main]" timed out waiting (5001ms) for thread "Thread[main,6,main]" to finish starting bundle "com.pat.tool.keditor_8.4.25.v201907031729 [505]". To avoid deadlock, thread "Thread[Thread-6,5,main]" is proceeding but "com.pat.tool.keditor.actions.ResourceDeleteAction$1" may not be fully initialized.
+!STACK 0
+org.osgi.framework.BundleException: State change in progress for bundle "reference:file:plugins/com.pat.tool.keditor_8.4.25.v201907031729.jar" by thread "main".
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.beginStateChange(AbstractBundle.java:1088)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.start(AbstractBundle.java:298)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:478)
+	at org.eclipse.osgi.internal.loader.BundleLoader.setLazyTrigger(BundleLoader.java:263)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:109)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass(ClasspathManager.java:469)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.findLocalClass(DefaultClassLoader.java:216)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:464)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at com.kony.studio.cloud.exportimport.DeleteProject.run(DeleteProject.java:60)
+Caused by: org.eclipse.osgi.framework.internal.core.AbstractBundle$BundleStatusException
+	... 14 more
+Root exception:
+org.eclipse.osgi.framework.internal.core.AbstractBundle$BundleStatusException
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.beginStateChange(AbstractBundle.java:1088)
+	at org.eclipse.osgi.framework.internal.core.AbstractBundle.start(AbstractBundle.java:298)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:478)
+	at org.eclipse.osgi.internal.loader.BundleLoader.setLazyTrigger(BundleLoader.java:263)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:109)
+	at org.eclipse.osgi.baseadaptor.loader.ClasspathManager.findLocalClass(ClasspathManager.java:469)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.findLocalClass(DefaultClassLoader.java:216)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:395)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:464)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at com.kony.studio.cloud.exportimport.DeleteProject.run(DeleteProject.java:60)
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:03.176
+!MESSAGE Node server shut down successfull.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:03.183
+!MESSAGE workspace location: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:04.775
+!MESSAGE Node location: D:\kony8.1\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\493\1\.cp\konywebstudio\nw\nw_win\node.exe
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:04.780
+!MESSAGE Node start location: D:\kony8.1\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\493\1\.cp\nw\node_start.bat
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:04.786
+!MESSAGE Starting node server...
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:04.793
+!MESSAGE Found installation dir: D:\kony8.1\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:20.427
+!MESSAGE Executing node startup command: D:\kony8.1\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\493\1\.cp\konywebstudio\nw\nw_win\node.exe app.js console C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis C:\Users\b703079\Kony Visualizer D:\kony8.1\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\493\1\.cp\konywebstudio\nw\nw_win\node.exe --NODE_APP_INSTANCE=vide --NODE_CONFIG={\"testRecorderWebSocketPort\":9111,\"transfer\":{\"codeanalysis\":{\"serverport\":5230}},\"codeanalysis\":{\"serverport\":5230},\"autonomousBot\":{\"serverport\":4210},\"expressServerPort\":5000,\"functionalPreviewPort\":8888,\"monitorAssets\":true,\"vizClientConfig\":{\"enableModelDriven\":false,\"monitorAssets\":true,\"enableCordovaDevelopment\":true,\"autonomousIQServerPort\":4210,\"enableAppGroups\":true,\"isHeadlessBuild\":false,\"enableToolTips\":true,\"isVizSigned\":true,\"enableNativeApi\":true,\"enableAppWizards\":true,\"enableOrientation\":true,\"enableMarketplace\":true,\"enableMVCExtensions\":false,\"enableIQChat\":null},\"isHeadlessBuild\":false,\"addonServerPort\":9095,\"isVizSigned\":true} 
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:20.780
+!MESSAGE Time for node to execute : 346msec
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:20.787
+!MESSAGE ***Started watch for node server...
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:22.879
+!MESSAGE [node console]Loading[config]..D:\kony8.1\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\493\1\.cp\konywebstudio\config\default.js
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:22.887
+!MESSAGE [node console]Workspace dir :: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:22.893
+!MESSAGE [node error]Error while retrieving Visualizer metadata at C:\Users\b703079\Kony Visualizer\vizdata\.metadata :: Error: ENOENT: no such file or directory, open 'C:\Users\b703079\Kony Visualizer\vizdata\.metadata'
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:22.922
+!MESSAGE [node console]Couldn't find java home.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:36.334
+!MESSAGE [node console]GitDir: C:\Users\b703079\Kony Visualizer\vizdata\.konyvizgit
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:38.480
+!MESSAGE [node console]Viz running in EMBEDDED mode
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:39.827
+!MESSAGE [node console][36m[2019-08-12 15:12:39.823] [DEBUG] vide - [39mIn pullWelcomeScreen ...
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:39.833
+!MESSAGE [node console][36m[2019-08-12 15:12:39.827] [DEBUG] vide - [39mDownload welcome screen: http://download.kony.com/installer/visualizer/WelcomeScreen8400/enterprise-WelcomeScreen8400.zip
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:39.839
+!MESSAGE [node console][36m[2019-08-12 15:12:39.831] [DEBUG] vide - [39mRequesting File from http://download.kony.com/installer/visualizer/WelcomeScreen8400/enterprise-WelcomeScreen8400.zip
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:40.805
+!MESSAGE [node console][32m[2019-08-12 15:12:40.803] [INFO] vide - [39mPorting project[Sample] in workspace [C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis] from_version[sprint32], to_version[sprint34]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:40.811
+!MESSAGE [node console][32m[2019-08-12 15:12:40.803] [INFO] vide - [39mPorting [Sample] from sprint32 to sprint33.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:40.817
+!MESSAGE [node console][32m[2019-08-12 15:12:40.803] [INFO] vide - [39mSTART :: Converting i18n properties to JSON.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:40.823
+!MESSAGE [node console][32m[2019-08-12 15:12:40.804] [INFO] vide - [39mEND :: Converting i18n properties to JSON.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:40.829
+!MESSAGE [node console][32m[2019-08-12 15:12:40.804] [INFO] vide - [39mSTART :: Migrating XML properties to JSON.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:40.864
+!MESSAGE [node console][32m[2019-08-12 15:12:40.862] [INFO] vide - [39mEND :: Migrating XML properties to JSON.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:40.871
+!MESSAGE [node console][32m[2019-08-12 15:12:40.863] [INFO] vide - [39mNo Kony Fabric app exists, so no porting required.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:40.877
+!MESSAGE [node console][32m[2019-08-12 15:12:40.869] [INFO] vide - [39mPorting [Sample] to sprint33, is completed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:40.884
+!MESSAGE [node console][32m[2019-08-12 15:12:40.869] [INFO] vide - [39mPorting started from sprint 33 to 34.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:40.890
+!MESSAGE [node console][32m[2019-08-12 15:12:40.870] [INFO] vide - [39mInitializing context for widget porter
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:40.897
+!MESSAGE [node console][32m[2019-08-12 15:12:40.870] [INFO] vide - [39mStart of widget porting
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:40.904
+!MESSAGE [node console][32m[2019-08-12 15:12:40.870] [INFO] vide - [39mPorting widgets for parent: form
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:40.910
+!MESSAGE [node console][32m[2019-08-12 15:12:40.876] [INFO] vide - [39mPorting widgets for parent: component
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:40.916
+!MESSAGE [node console][32m[2019-08-12 15:12:40.877] [INFO] vide - [39mPorting widgets for parent: template
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:40.922
+!MESSAGE [node console][32m[2019-08-12 15:12:40.898] [INFO] vide - [39mPorting widgets for parent: popup
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:40.929
+!MESSAGE [node console][32m[2019-08-12 15:12:40.901] [INFO] vide - [39mPorting widgets for parent: master
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:40.935
+!MESSAGE [node console][32m[2019-08-12 15:12:40.902] [INFO] vide - [39mEnd of widget porting
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:40.941
+!MESSAGE [node console][32m[2019-08-12 15:12:40.924] [INFO] vide - [39mInitializing context for action porter
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:40.947
+!MESSAGE [node console][32m[2019-08-12 15:12:40.924] [INFO] vide - [39mStart of action porting
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:40.954
+!MESSAGE [node console][32m[2019-08-12 15:12:40.924] [INFO] vide - [39mPorting actions for parent: actions
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:40.959
+!MESSAGE [node console][32m[2019-08-12 15:12:40.929] [INFO] vide - [39mPorting actions for parent: studioactions
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:40.965
+!MESSAGE [node console][32m[2019-08-12 15:12:40.934] [INFO] vide - [39mEnd of action porting
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:41.490
+!MESSAGE [node console][31m[2019-08-12 15:12:41.489] [ERROR] vide - [39mError while reading file from path C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\Sample\resources\common\infoplist_configuration.json: SyntaxError: Unexpected token / in JSON at position 5
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:41.588
+!MESSAGE [node console][32m[2019-08-12 15:12:41.587] [INFO] vide - [39m
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:41.924
+!MESSAGE [node console][32m[2019-08-12 15:12:41.922] [INFO] vide - [39mNo Kony Fabric app exists, so no porting required.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:41.973
+!MESSAGE [node console][36m[2019-08-12 15:12:41.971] [DEBUG] vide - [39mStarted importing component from C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.microAppTemp_1016889497\DefaultResources to the project[Sample].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:41.980
+!MESSAGE [node console][36m[2019-08-12 15:12:41.972] [DEBUG] vide - [39mCreated .temp directory under  C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.218
+!MESSAGE [node console][36m[2019-08-12 15:12:42.216] [DEBUG] vide - [39mComponent type is valid.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.231
+!MESSAGE [node console][32m[2019-08-12 15:12:42.230] [INFO] vide - [39mValidating and Repairing the project structure: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.238
+!MESSAGE [node console][32m[2019-08-12 15:12:42.231] [INFO] vide - [39mValidating project structure using validator template: '7.3'
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.301
+!MESSAGE [node console][32m[2019-08-12 15:12:42.299] [INFO] vide - [39mPorting project[import197306505] in workspace [C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp] from_version[sprint32], to_version[sprint34]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.307
+!MESSAGE [node console][32m[2019-08-12 15:12:42.299] [INFO] vide - [39mPorting [import197306505] from sprint32 to sprint33.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.313
+!MESSAGE [node console][32m[2019-08-12 15:12:42.299] [INFO] vide - [39mSTART :: Converting i18n properties to JSON.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.319
+!MESSAGE [node console][32m[2019-08-12 15:12:42.300] [INFO] vide - [39mEND :: Converting i18n properties to JSON.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.325
+!MESSAGE [node console][32m[2019-08-12 15:12:42.300] [INFO] vide - [39mSTART :: Migrating XML properties to JSON.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.331
+!MESSAGE [node console][32m[2019-08-12 15:12:42.300] [INFO] vide - [39mEND :: Migrating XML properties to JSON.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.338
+!MESSAGE [node console][32m[2019-08-12 15:12:42.300] [INFO] vide - [39mNo Kony Fabric app exists, so no porting required.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.343
+!MESSAGE [node console][32m[2019-08-12 15:12:42.306] [INFO] vide - [39mPorting [import197306505] to sprint33, is completed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.350
+!MESSAGE [node console][32m[2019-08-12 15:12:42.306] [INFO] vide - [39mPorting started from sprint 33 to 34.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.357
+!MESSAGE [node console][32m[2019-08-12 15:12:42.306] [INFO] vide - [39mInitializing context for widget porter
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.364
+!MESSAGE [node console][32m[2019-08-12 15:12:42.306] [INFO] vide - [39mStart of widget porting
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.372
+!MESSAGE [node console][32m[2019-08-12 15:12:42.306] [INFO] vide - [39mPorting widgets for parent: form
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.377
+!MESSAGE [node console][32m[2019-08-12 15:12:42.309] [INFO] vide - [39mPorting widgets for parent: component
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.383
+!MESSAGE [node console][32m[2019-08-12 15:12:42.310] [INFO] vide - [39mPorting widgets for parent: template
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.388
+!MESSAGE [node console][32m[2019-08-12 15:12:42.355] [INFO] vide - [39mPorting widgets for parent: popup
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.394
+!MESSAGE [node console][32m[2019-08-12 15:12:42.359] [INFO] vide - [39mPorting widgets for parent: master
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.400
+!MESSAGE [node console][32m[2019-08-12 15:12:42.359] [INFO] vide - [39mEnd of widget porting
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.406
+!MESSAGE [node console][36m[2019-08-12 15:12:42.376] [DEBUG] vide - [39mreadFormAsJSObject :: Form path: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\desktop\segments\SampleRowTemplate.sm
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.412
+!MESSAGE [node console][36m[2019-08-12 15:12:42.377] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\desktop\segments\SampleRowTemplate.sm\flxSampleRowTemplate.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.417
+!MESSAGE [node console][36m[2019-08-12 15:12:42.377] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\desktop\segments\SampleRowTemplate.sm\lblHeading.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.424
+!MESSAGE [node console][36m[2019-08-12 15:12:42.378] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\desktop\segments\SampleRowTemplate.sm\lblDescription.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.429
+!MESSAGE [node console][36m[2019-08-12 15:12:42.379] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\desktop\segments\SampleRowTemplate.sm\lblTime.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.434
+!MESSAGE [node console][36m[2019-08-12 15:12:42.379] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\desktop\segments\SampleRowTemplate.sm\lblStrip.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.440
+!MESSAGE [node console][36m[2019-08-12 15:12:42.380] [DEBUG] vide - [39mreadFormAsJSObject :: Form path: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\desktop\segments\SampleSectionHeaderTemplate.sm
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.446
+!MESSAGE [node console][36m[2019-08-12 15:12:42.381] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\desktop\segments\SampleSectionHeaderTemplate.sm\flxSectionHeaderTemplate.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.451
+!MESSAGE [node console][36m[2019-08-12 15:12:42.381] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\desktop\segments\SampleSectionHeaderTemplate.sm\lblHeading.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.456
+!MESSAGE [node console][36m[2019-08-12 15:12:42.385] [DEBUG] vide - [39mreadFormAsJSObject :: Form path: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\mobile\segments\SampleRowTemplate.sm
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.462
+!MESSAGE [node console][36m[2019-08-12 15:12:42.386] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\mobile\segments\SampleRowTemplate.sm\flxSampleRowTemplate.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.468
+!MESSAGE [node console][36m[2019-08-12 15:12:42.386] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\mobile\segments\SampleRowTemplate.sm\lblHeading.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.475
+!MESSAGE [node console][36m[2019-08-12 15:12:42.387] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\mobile\segments\SampleRowTemplate.sm\lblDescription.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.481
+!MESSAGE [node console][36m[2019-08-12 15:12:42.388] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\mobile\segments\SampleRowTemplate.sm\lblTime.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.488
+!MESSAGE [node console][36m[2019-08-12 15:12:42.389] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\mobile\segments\SampleRowTemplate.sm\lblStrip.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.495
+!MESSAGE [node console][36m[2019-08-12 15:12:42.390] [DEBUG] vide - [39mreadFormAsJSObject :: Form path: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\mobile\segments\SampleSectionHeaderTemplate.sm
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.501
+!MESSAGE [node console][36m[2019-08-12 15:12:42.390] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\mobile\segments\SampleSectionHeaderTemplate.sm\flxSectionHeaderTemplate.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.507
+!MESSAGE [node console][36m[2019-08-12 15:12:42.391] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\mobile\segments\SampleSectionHeaderTemplate.sm\lblHeading.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.515
+!MESSAGE [node console][36m[2019-08-12 15:12:42.395] [DEBUG] vide - [39mreadFormAsJSObject :: Form path: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\tablet\segments\SampleRowTemplate.sm
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.523
+!MESSAGE [node console][36m[2019-08-12 15:12:42.396] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\tablet\segments\SampleRowTemplate.sm\flxSampleRowTemplate.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.529
+!MESSAGE [node console][36m[2019-08-12 15:12:42.396] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\tablet\segments\SampleRowTemplate.sm\lblHeading.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.535
+!MESSAGE [node console][36m[2019-08-12 15:12:42.397] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\tablet\segments\SampleRowTemplate.sm\lblDescription.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.543
+!MESSAGE [node console][36m[2019-08-12 15:12:42.397] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\tablet\segments\SampleRowTemplate.sm\lblTime.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.551
+!MESSAGE [node console][36m[2019-08-12 15:12:42.398] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\tablet\segments\SampleRowTemplate.sm\lblStrip.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.559
+!MESSAGE [node console][36m[2019-08-12 15:12:42.399] [DEBUG] vide - [39mreadFormAsJSObject :: Form path: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\tablet\segments\SampleSectionHeaderTemplate.sm
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.567
+!MESSAGE [node console][36m[2019-08-12 15:12:42.400] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\tablet\segments\SampleSectionHeaderTemplate.sm\flxSectionHeaderTemplate.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.574
+!MESSAGE [node console][36m[2019-08-12 15:12:42.400] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\tablet\segments\SampleSectionHeaderTemplate.sm\lblHeading.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.581
+!MESSAGE [node console][32m[2019-08-12 15:12:42.402] [INFO] vide - [39mInitializing context for action porter
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.589
+!MESSAGE [node console][32m[2019-08-12 15:12:42.402] [INFO] vide - [39mStart of action porting
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.597
+!MESSAGE [node console][32m[2019-08-12 15:12:42.402] [INFO] vide - [39mPorting actions for parent: actions
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.603
+!MESSAGE [node console][32m[2019-08-12 15:12:42.407] [INFO] vide - [39mPorting actions for parent: studioactions
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.609
+!MESSAGE [node console][32m[2019-08-12 15:12:42.411] [INFO] vide - [39mEnd of action porting
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.809
+!MESSAGE [node console][36m[2019-08-12 15:12:42.806] [DEBUG] vide - [39mComponent Ids: {}
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.815
+!MESSAGE [node console][36m[2019-08-12 15:12:42.807] [DEBUG] vide - [39mLoading templates...
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.822
+!MESSAGE [node console][36m[2019-08-12 15:12:42.807] [DEBUG] vide - [39mLoading template : desktop/segments/SampleRowTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.829
+!MESSAGE [node console][36m[2019-08-12 15:12:42.808] [DEBUG] vide - [39mreadFormAsJSObject :: Form path: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\desktop\segments\SampleRowTemplate.sm
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.834
+!MESSAGE [node console][36m[2019-08-12 15:12:42.808] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\desktop\segments\SampleRowTemplate.sm\flxSampleRowTemplate.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.841
+!MESSAGE [node console][36m[2019-08-12 15:12:42.809] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\desktop\segments\SampleRowTemplate.sm\lblHeading.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.847
+!MESSAGE [node console][36m[2019-08-12 15:12:42.809] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\desktop\segments\SampleRowTemplate.sm\lblDescription.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.853
+!MESSAGE [node console][36m[2019-08-12 15:12:42.810] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\desktop\segments\SampleRowTemplate.sm\lblTime.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.860
+!MESSAGE [node console][36m[2019-08-12 15:12:42.810] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\desktop\segments\SampleRowTemplate.sm\lblStrip.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.865
+!MESSAGE [node console][36m[2019-08-12 15:12:42.811] [DEBUG] vide - [39mLoading template : desktop/segments/SampleSectionHeaderTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.872
+!MESSAGE [node console][36m[2019-08-12 15:12:42.811] [DEBUG] vide - [39mreadFormAsJSObject :: Form path: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\desktop\segments\SampleSectionHeaderTemplate.sm
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.878
+!MESSAGE [node console][36m[2019-08-12 15:12:42.812] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\desktop\segments\SampleSectionHeaderTemplate.sm\flxSectionHeaderTemplate.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.883
+!MESSAGE [node console][36m[2019-08-12 15:12:42.813] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\desktop\segments\SampleSectionHeaderTemplate.sm\lblHeading.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.890
+!MESSAGE [node console][36m[2019-08-12 15:12:42.813] [DEBUG] vide - [39mLoading template : mobile/segments/SampleRowTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.896
+!MESSAGE [node console][36m[2019-08-12 15:12:42.813] [DEBUG] vide - [39mreadFormAsJSObject :: Form path: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\mobile\segments\SampleRowTemplate.sm
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.902
+!MESSAGE [node console][36m[2019-08-12 15:12:42.814] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\mobile\segments\SampleRowTemplate.sm\flxSampleRowTemplate.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.909
+!MESSAGE [node console][36m[2019-08-12 15:12:42.815] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\mobile\segments\SampleRowTemplate.sm\lblHeading.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.915
+!MESSAGE [node console][36m[2019-08-12 15:12:42.815] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\mobile\segments\SampleRowTemplate.sm\lblDescription.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.922
+!MESSAGE [node console][36m[2019-08-12 15:12:42.816] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\mobile\segments\SampleRowTemplate.sm\lblTime.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.929
+!MESSAGE [node console][36m[2019-08-12 15:12:42.816] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\mobile\segments\SampleRowTemplate.sm\lblStrip.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.935
+!MESSAGE [node console][36m[2019-08-12 15:12:42.818] [DEBUG] vide - [39mLoading template : mobile/segments/SampleSectionHeaderTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.942
+!MESSAGE [node console][36m[2019-08-12 15:12:42.818] [DEBUG] vide - [39mreadFormAsJSObject :: Form path: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\mobile\segments\SampleSectionHeaderTemplate.sm
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.948
+!MESSAGE [node console][36m[2019-08-12 15:12:42.819] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\mobile\segments\SampleSectionHeaderTemplate.sm\flxSectionHeaderTemplate.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.956
+!MESSAGE [node console][36m[2019-08-12 15:12:42.820] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\mobile\segments\SampleSectionHeaderTemplate.sm\lblHeading.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.962
+!MESSAGE [node console][36m[2019-08-12 15:12:42.821] [DEBUG] vide - [39mLoading template : tablet/segments/SampleRowTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.969
+!MESSAGE [node console][36m[2019-08-12 15:12:42.821] [DEBUG] vide - [39mreadFormAsJSObject :: Form path: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\tablet\segments\SampleRowTemplate.sm
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.975
+!MESSAGE [node console][36m[2019-08-12 15:12:42.822] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\tablet\segments\SampleRowTemplate.sm\flxSampleRowTemplate.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.982
+!MESSAGE [node console][36m[2019-08-12 15:12:42.823] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\tablet\segments\SampleRowTemplate.sm\lblHeading.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.989
+!MESSAGE [node console][36m[2019-08-12 15:12:42.824] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\tablet\segments\SampleRowTemplate.sm\lblDescription.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:42.996
+!MESSAGE [node console][36m[2019-08-12 15:12:42.825] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\tablet\segments\SampleRowTemplate.sm\lblTime.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.002
+!MESSAGE [node console][36m[2019-08-12 15:12:42.825] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\tablet\segments\SampleRowTemplate.sm\lblStrip.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.009
+!MESSAGE [node console][36m[2019-08-12 15:12:42.826] [DEBUG] vide - [39mLoading template : tablet/segments/SampleSectionHeaderTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.016
+!MESSAGE [node console][36m[2019-08-12 15:12:42.826] [DEBUG] vide - [39mreadFormAsJSObject :: Form path: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\tablet\segments\SampleSectionHeaderTemplate.sm
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.023
+!MESSAGE [node console][36m[2019-08-12 15:12:42.827] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\tablet\segments\SampleSectionHeaderTemplate.sm\flxSectionHeaderTemplate.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.029
+!MESSAGE [node console][36m[2019-08-12 15:12:42.889] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\tablet\segments\SampleSectionHeaderTemplate.sm\lblHeading.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.036
+!MESSAGE [node console][36m[2019-08-12 15:12:42.890] [DEBUG] vide - [39mLoading masters.. 
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.043
+!MESSAGE [node console][36m[2019-08-12 15:12:42.890] [DEBUG] vide - [39mLoading skins.. sknLblDescription
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.049
+!MESSAGE [node console]sknLblRowHeading
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.056
+!MESSAGE [node console]sknLblStrip
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.063
+!MESSAGE [node console]sknLblTimeStamp
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.070
+!MESSAGE [node console]sknSampleRowTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.077
+!MESSAGE [node console]sknSampleSectionHeaderTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.082
+!MESSAGE [node console]sknSectionHeaderLabelSkin
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.089
+!MESSAGE [node console]slForm
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.095
+!MESSAGE [node console][36m[2019-08-12 15:12:42.923] [DEBUG] vide - [39mValidating web assets...
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.102
+!MESSAGE [node console][31m[2019-08-12 15:12:42.923] [ERROR] vide - [39mMissing web asset metafile: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\.webmeta\localfiles.meta-info
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.123
+!MESSAGE [node console][36m[2019-08-12 15:12:42.925] [DEBUG] vide - [39mValidating web assets...
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.130
+!MESSAGE [node console][31m[2019-08-12 15:12:42.925] [ERROR] vide - [39mMissing web asset metafile: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\.webmeta\cordova.meta-info
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.137
+!MESSAGE [node console][32m[2019-08-12 15:12:42.932] [INFO] vide - [39mPrepared skin KUID map.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.144
+!MESSAGE [node console] { s75d38934ca74897bc99c5b4270ed150: 'sknLblDescription',
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.151
+!MESSAGE [node console]  s839edbfa0714c62a0314f8d7923e117: 'sknLblRowHeading',
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.158
+!MESSAGE [node console]  s1cb82c103854acb9a9622460be47c1c: 'sknLblStrip',
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.164
+!MESSAGE [node console]  s72f5d68abba4a29b414595cf0a6ace2: 'sknLblTimeStamp',
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.171
+!MESSAGE [node console]  sa985589b985438bba0a1c07e6f12e6c: 'sknSampleRowTemplate',
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.178
+!MESSAGE [node console]  sb5e98ba4b4c4c5e9038898a1e105516: 'sknSampleSectionHeaderTemplate',
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.184
+!MESSAGE [node console]  s85293082d58458cb5d164490b05d315: 'sknSectionHeaderLabelSkin',
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.191
+!MESSAGE [node console]  s3c8fa21999241f5b92d115e55dc7e2d: 'slForm' }
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.197
+!MESSAGE [node console][36m[2019-08-12 15:12:42.938] [DEBUG] vide - [39mSaved the skin to .temp.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.203
+!MESSAGE [node console][36m[2019-08-12 15:12:42.938] [DEBUG] vide - [39mSaving template SampleRowTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.211
+!MESSAGE [node console][36m[2019-08-12 15:12:42.983] [DEBUG] vide - [39mSaving template SampleSectionHeaderTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.217
+!MESSAGE [node console][36m[2019-08-12 15:12:43.006] [DEBUG] vide - [39mSaving template SampleRowTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.224
+!MESSAGE [node console][36m[2019-08-12 15:12:43.050] [DEBUG] vide - [39mSaving template SampleSectionHeaderTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.231
+!MESSAGE [node console][36m[2019-08-12 15:12:43.084] [DEBUG] vide - [39mSaving the changed action models.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.238
+!MESSAGE [node console][32m[2019-08-12 15:12:43.159] [INFO] vide - [39mActions implicit copy not required. Skipping.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.243
+!MESSAGE [node console][36m[2019-08-12 15:12:43.159] [DEBUG] vide - [39mImporting a non-MVC Form into an MVC project Sample
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.249
+!MESSAGE [node console][36m[2019-08-12 15:12:43.169] [DEBUG] vide - [39mSaving the changed model: SampleRowTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.255
+!MESSAGE [node console][36m[2019-08-12 15:12:43.170] [DEBUG] vide - [39mSaving template SampleRowTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.262
+!MESSAGE [node console][36m[2019-08-12 15:12:43.223] [DEBUG] vide - [39mSaving the changed model: SampleSectionHeaderTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.268
+!MESSAGE [node console][36m[2019-08-12 15:12:43.223] [DEBUG] vide - [39mSaving template SampleSectionHeaderTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.275
+!MESSAGE [node console][36m[2019-08-12 15:12:43.253] [DEBUG] vide - [39mSaving the changed model: SampleRowTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.281
+!MESSAGE [node console][36m[2019-08-12 15:12:43.253] [DEBUG] vide - [39mSaving template SampleRowTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.312
+!MESSAGE [node console][36m[2019-08-12 15:12:43.310] [DEBUG] vide - [39mSaving the changed model: SampleSectionHeaderTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.318
+!MESSAGE [node console][36m[2019-08-12 15:12:43.310] [DEBUG] vide - [39mSaving template SampleSectionHeaderTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.343
+!MESSAGE [node console][36m[2019-08-12 15:12:43.341] [DEBUG] vide - [39mSaving the changed model: SampleRowTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.348
+!MESSAGE [node console][36m[2019-08-12 15:12:43.341] [DEBUG] vide - [39mSaving template SampleRowTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.388
+!MESSAGE [node console][36m[2019-08-12 15:12:43.386] [DEBUG] vide - [39mSaving the changed model: SampleSectionHeaderTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.394
+!MESSAGE [node console][36m[2019-08-12 15:12:43.386] [DEBUG] vide - [39mSaving template SampleSectionHeaderTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.416
+!MESSAGE [node console][36m[2019-08-12 15:12:43.414] [DEBUG] vide - [39mSaving forms controller actions for channel: desktop
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.422
+!MESSAGE [node console][36m[2019-08-12 15:12:43.416] [DEBUG] vide - [39mSaving templates controller actions for channel: desktop and type:  maps
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.428
+!MESSAGE [node console][36m[2019-08-12 15:12:43.417] [DEBUG] vide - [39mSaving templates controller actions for channel: desktop and type:  segments
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.434
+!MESSAGE [node console][36m[2019-08-12 15:12:43.418] [DEBUG] vide - [39mReading template:  SampleRowTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.440
+!MESSAGE [node console][36m[2019-08-12 15:12:43.419] [DEBUG] vide - [39mreadFormAsJSObject :: Form path: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\desktop\segments\SampleRowTemplate.sm
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.445
+!MESSAGE [node console][36m[2019-08-12 15:12:43.419] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\desktop\segments\SampleRowTemplate.sm\flxSampleRowTemplate.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.451
+!MESSAGE [node console][36m[2019-08-12 15:12:43.420] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\desktop\segments\SampleRowTemplate.sm\lblHeading.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.457
+!MESSAGE [node console][36m[2019-08-12 15:12:43.420] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\desktop\segments\SampleRowTemplate.sm\lblDescription.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.463
+!MESSAGE [node console][36m[2019-08-12 15:12:43.421] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\desktop\segments\SampleRowTemplate.sm\lblTime.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.469
+!MESSAGE [node console][36m[2019-08-12 15:12:43.422] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\desktop\segments\SampleRowTemplate.sm\lblStrip.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.475
+!MESSAGE [node console][36m[2019-08-12 15:12:43.423] [DEBUG] vide - [39mReading template:  SampleSectionHeaderTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.480
+!MESSAGE [node console][36m[2019-08-12 15:12:43.423] [DEBUG] vide - [39mreadFormAsJSObject :: Form path: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\desktop\segments\SampleSectionHeaderTemplate.sm
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.486
+!MESSAGE [node console][36m[2019-08-12 15:12:43.424] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\desktop\segments\SampleSectionHeaderTemplate.sm\flxSectionHeaderTemplate.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.492
+!MESSAGE [node console][36m[2019-08-12 15:12:43.425] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\desktop\segments\SampleSectionHeaderTemplate.sm\lblHeading.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.498
+!MESSAGE [node console][36m[2019-08-12 15:12:43.426] [DEBUG] vide - [39mCollecting the actions to export..
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.503
+!MESSAGE [node console][36m[2019-08-12 15:12:43.428] [DEBUG] vide - [39mCollecting the actions to export..
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.508
+!MESSAGE [node console][36m[2019-08-12 15:12:43.428] [DEBUG] vide - [39mprojectProperties.json file is missing from the project. Skipping to save app level actions
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.514
+!MESSAGE [node console][36m[2019-08-12 15:12:43.435] [DEBUG] vide - [39mSaving forms controller actions for channel: mobile
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.520
+!MESSAGE [node console][36m[2019-08-12 15:12:43.436] [DEBUG] vide - [39mSaving templates controller actions for channel: mobile and type:  maps
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.526
+!MESSAGE [node console][36m[2019-08-12 15:12:43.438] [DEBUG] vide - [39mSaving templates controller actions for channel: mobile and type:  segments
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.532
+!MESSAGE [node console][36m[2019-08-12 15:12:43.439] [DEBUG] vide - [39mReading template:  SampleRowTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.538
+!MESSAGE [node console][36m[2019-08-12 15:12:43.439] [DEBUG] vide - [39mreadFormAsJSObject :: Form path: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\mobile\segments\SampleRowTemplate.sm
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.544
+!MESSAGE [node console][36m[2019-08-12 15:12:43.440] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\mobile\segments\SampleRowTemplate.sm\flxSampleRowTemplate.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.549
+!MESSAGE [node console][36m[2019-08-12 15:12:43.441] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\mobile\segments\SampleRowTemplate.sm\lblHeading.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.556
+!MESSAGE [node console][36m[2019-08-12 15:12:43.441] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\mobile\segments\SampleRowTemplate.sm\lblDescription.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.562
+!MESSAGE [node console][36m[2019-08-12 15:12:43.442] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\mobile\segments\SampleRowTemplate.sm\lblTime.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.568
+!MESSAGE [node console][36m[2019-08-12 15:12:43.442] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\mobile\segments\SampleRowTemplate.sm\lblStrip.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.575
+!MESSAGE [node console][36m[2019-08-12 15:12:43.443] [DEBUG] vide - [39mReading template:  SampleSectionHeaderTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.581
+!MESSAGE [node console][36m[2019-08-12 15:12:43.443] [DEBUG] vide - [39mreadFormAsJSObject :: Form path: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\mobile\segments\SampleSectionHeaderTemplate.sm
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.586
+!MESSAGE [node console][36m[2019-08-12 15:12:43.443] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\mobile\segments\SampleSectionHeaderTemplate.sm\flxSectionHeaderTemplate.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.592
+!MESSAGE [node console][36m[2019-08-12 15:12:43.444] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\mobile\segments\SampleSectionHeaderTemplate.sm\lblHeading.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.597
+!MESSAGE [node console][36m[2019-08-12 15:12:43.445] [DEBUG] vide - [39mCollecting the actions to export..
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.603
+!MESSAGE [node console][36m[2019-08-12 15:12:43.462] [DEBUG] vide - [39mCollecting the actions to export..
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.609
+!MESSAGE [node console][36m[2019-08-12 15:12:43.463] [DEBUG] vide - [39mprojectProperties.json file is missing from the project. Skipping to save app level actions
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.615
+!MESSAGE [node console][36m[2019-08-12 15:12:43.470] [DEBUG] vide - [39mSaving forms controller actions for channel: tablet
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.620
+!MESSAGE [node console][36m[2019-08-12 15:12:43.472] [DEBUG] vide - [39mSaving templates controller actions for channel: tablet and type:  maps
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.627
+!MESSAGE [node console][36m[2019-08-12 15:12:43.473] [DEBUG] vide - [39mSaving templates controller actions for channel: tablet and type:  segments
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.632
+!MESSAGE [node console][36m[2019-08-12 15:12:43.474] [DEBUG] vide - [39mReading template:  SampleRowTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.638
+!MESSAGE [node console][36m[2019-08-12 15:12:43.475] [DEBUG] vide - [39mreadFormAsJSObject :: Form path: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\tablet\segments\SampleRowTemplate.sm
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.644
+!MESSAGE [node console][36m[2019-08-12 15:12:43.475] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\tablet\segments\SampleRowTemplate.sm\flxSampleRowTemplate.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.650
+!MESSAGE [node console][36m[2019-08-12 15:12:43.476] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\tablet\segments\SampleRowTemplate.sm\lblHeading.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.655
+!MESSAGE [node console][36m[2019-08-12 15:12:43.476] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\tablet\segments\SampleRowTemplate.sm\lblDescription.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.661
+!MESSAGE [node console][36m[2019-08-12 15:12:43.477] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\tablet\segments\SampleRowTemplate.sm\lblTime.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.667
+!MESSAGE [node console][36m[2019-08-12 15:12:43.477] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\tablet\segments\SampleRowTemplate.sm\lblStrip.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.674
+!MESSAGE [node console][36m[2019-08-12 15:12:43.478] [DEBUG] vide - [39mReading template:  SampleSectionHeaderTemplate
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.681
+!MESSAGE [node console][36m[2019-08-12 15:12:43.478] [DEBUG] vide - [39mreadFormAsJSObject :: Form path: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\tablet\segments\SampleSectionHeaderTemplate.sm
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.687
+!MESSAGE [node console][36m[2019-08-12 15:12:43.478] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\tablet\segments\SampleSectionHeaderTemplate.sm\flxSectionHeaderTemplate.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.693
+!MESSAGE [node console][36m[2019-08-12 15:12:43.479] [DEBUG] vide - [39m-- Processing: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\templates\tablet\segments\SampleSectionHeaderTemplate.sm\lblHeading.json
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.699
+!MESSAGE [node console][36m[2019-08-12 15:12:43.480] [DEBUG] vide - [39mCollecting the actions to export..
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.706
+!MESSAGE [node console][36m[2019-08-12 15:12:43.481] [DEBUG] vide - [39mCollecting the actions to export..
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.712
+!MESSAGE [node console][36m[2019-08-12 15:12:43.481] [DEBUG] vide - [39mprojectProperties.json file is missing from the project. Skipping to save app level actions
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.718
+!MESSAGE [node console][31m[2019-08-12 15:12:43.482] [ERROR] vide - [39mError while importing i18n : { inspect: [Function: inspect] }
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.725
+!MESSAGE [node console][31m[2019-08-12 15:12:43.483] [ERROR] vide - [39mENOENT: no such file or directory, open 'C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\i18n.json'
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.731
+!MESSAGE [node console][36m[2019-08-12 15:12:43.483] [DEBUG] vide - [39mENOENT: no such file or directory, open 'C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\i18n.json'
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.738
+!MESSAGE [node console][36m[2019-08-12 15:12:43.483] [DEBUG] vide - [39mCopying content from C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505 to C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\Sample
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.744
+!MESSAGE [node console][36m[2019-08-12 15:12:43.484] [DEBUG] vide - [39mStarting copy of resources.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.751
+!MESSAGE [node console][36m[2019-08-12 15:12:43.614] [DEBUG] vide - [39mSkipped copy of resource [androidwear\common\acme.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.758
+!MESSAGE [node console][36m[2019-08-12 15:12:43.614] [DEBUG] vide - [39mSkipped copy of resource [androidwear\common\calbtn.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.765
+!MESSAGE [node console][36m[2019-08-12 15:12:43.614] [DEBUG] vide - [39mSkipped copy of resource [androidwear\common\defvideoposter.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.773
+!MESSAGE [node console][36m[2019-08-12 15:12:43.615] [DEBUG] vide - [39mSkipped copy of resource [androidwear\common\imagedrag.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.780
+!MESSAGE [node console][36m[2019-08-12 15:12:43.615] [DEBUG] vide - [39mSkipped copy of resource [androidwear\common\listboxarw.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.787
+!MESSAGE [node console][36m[2019-08-12 15:12:43.615] [DEBUG] vide - [39mSkipped copy of resource [androidwear\common\option1.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.795
+!MESSAGE [node console][36m[2019-08-12 15:12:43.615] [DEBUG] vide - [39mSkipped copy of resource [androidwear\common\option2.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.802
+!MESSAGE [node console][36m[2019-08-12 15:12:43.615] [DEBUG] vide - [39mSkipped copy of resource [androidwear\common\option3.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.809
+!MESSAGE [node console][36m[2019-08-12 15:12:43.616] [DEBUG] vide - [39mSkipped copy of resource [androidwear\common\option4.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.817
+!MESSAGE [node console][36m[2019-08-12 15:12:43.616] [DEBUG] vide - [39mSkipped copy of resource [androidwear\common\pageoffdot.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.825
+!MESSAGE [node console][36m[2019-08-12 15:12:43.616] [DEBUG] vide - [39mSkipped copy of resource [androidwear\common\pageondot.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.832
+!MESSAGE [node console][36m[2019-08-12 15:12:43.616] [DEBUG] vide - [39mSkipped copy of resource [androidwear\common\pinb.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.840
+!MESSAGE [node console][36m[2019-08-12 15:12:43.616] [DEBUG] vide - [39mSkipped copy of resource [androidwear\common\slider.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.847
+!MESSAGE [node console][36m[2019-08-12 15:12:43.616] [DEBUG] vide - [39mSkipped copy of resource [androidwear\common\slider_android.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.854
+!MESSAGE [node console][36m[2019-08-12 15:12:43.617] [DEBUG] vide - [39mSkipped copy of resource [androidwear\common\zoomout.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.862
+!MESSAGE [node console][36m[2019-08-12 15:12:43.618] [DEBUG] vide - [39mSkipped copy of resource [common\acme.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.870
+!MESSAGE [node console][36m[2019-08-12 15:12:43.618] [DEBUG] vide - [39mSkipped copy of resource [common\calbtn.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.877
+!MESSAGE [node console][36m[2019-08-12 15:12:43.618] [DEBUG] vide - [39mSkipped copy of resource [common\defvideoposter.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.882
+!MESSAGE [node console][36m[2019-08-12 15:12:43.618] [DEBUG] vide - [39mSkipped copy of resource [common\imagedrag.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.889
+!MESSAGE [node console][36m[2019-08-12 15:12:43.618] [DEBUG] vide - [39mSkipped copy of resource [common\kony_150.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.896
+!MESSAGE [node console][36m[2019-08-12 15:12:43.619] [DEBUG] vide - [39mSkipped copy of resource [common\kony_300.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.905
+!MESSAGE [node console][36m[2019-08-12 15:12:43.619] [DEBUG] vide - [39mSkipped copy of resource [common\kony_48.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.912
+!MESSAGE [node console][36m[2019-08-12 15:12:43.619] [DEBUG] vide - [39mSkipped copy of resource [common\kony_71.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.919
+!MESSAGE [node console][36m[2019-08-12 15:12:43.619] [DEBUG] vide - [39mSkipped copy of resource [common\kony_88.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.927
+!MESSAGE [node console][36m[2019-08-12 15:12:43.619] [DEBUG] vide - [39mSkipped copy of resource [common\listboxarw.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.934
+!MESSAGE [node console][36m[2019-08-12 15:12:43.619] [DEBUG] vide - [39mSkipped copy of resource [common\option1.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.942
+!MESSAGE [node console][36m[2019-08-12 15:12:43.620] [DEBUG] vide - [39mSkipped copy of resource [common\option2.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.949
+!MESSAGE [node console][36m[2019-08-12 15:12:43.620] [DEBUG] vide - [39mSkipped copy of resource [common\option3.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.956
+!MESSAGE [node console][36m[2019-08-12 15:12:43.620] [DEBUG] vide - [39mSkipped copy of resource [common\option4.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.964
+!MESSAGE [node console][36m[2019-08-12 15:12:43.620] [DEBUG] vide - [39mSkipped copy of resource [common\pageoffdot.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.972
+!MESSAGE [node console][36m[2019-08-12 15:12:43.621] [DEBUG] vide - [39mSkipped copy of resource [common\pageondot.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.979
+!MESSAGE [node console][36m[2019-08-12 15:12:43.621] [DEBUG] vide - [39mSkipped copy of resource [common\pinb.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.986
+!MESSAGE [node console][36m[2019-08-12 15:12:43.621] [DEBUG] vide - [39mSkipped copy of resource [common\slider.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:43.993
+!MESSAGE [node console][36m[2019-08-12 15:12:43.621] [DEBUG] vide - [39mSkipped copy of resource [common\slider_android.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.001
+!MESSAGE [node console][36m[2019-08-12 15:12:43.621] [DEBUG] vide - [39mSkipped copy of resource [common\slider_ios7.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.008
+!MESSAGE [node console][36m[2019-08-12 15:12:43.622] [DEBUG] vide - [39mSkipped copy of resource [common\splash.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.015
+!MESSAGE [node console][36m[2019-08-12 15:12:43.622] [DEBUG] vide - [39mSkipped copy of resource [common\zoomout.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.022
+!MESSAGE [node console][36m[2019-08-12 15:12:43.624] [DEBUG] vide - [39mSkipped copy of resource [desktop\common\close.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.030
+!MESSAGE [node console][36m[2019-08-12 15:12:43.625] [DEBUG] vide - [39mSkipped copy of resource [desktop\common\max.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.037
+!MESSAGE [node console][36m[2019-08-12 15:12:43.625] [DEBUG] vide - [39mSkipped copy of resource [desktop\common\min.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.044
+!MESSAGE [node console][36m[2019-08-12 15:12:43.749] [DEBUG] vide - [39mSkipped copy of resource [desktop\common\tableftarrow.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.051
+!MESSAGE [node console][36m[2019-08-12 15:12:43.749] [DEBUG] vide - [39mSkipped copy of resource [desktop\common\tabrightarrow.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.059
+!MESSAGE [node console][36m[2019-08-12 15:12:43.776] [DEBUG] vide - [39mSkipped copy of resource [mobile\native\iphone\option1@2x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.066
+!MESSAGE [node console][36m[2019-08-12 15:12:43.776] [DEBUG] vide - [39mSkipped copy of resource [mobile\native\iphone\option1@3x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.075
+!MESSAGE [node console][36m[2019-08-12 15:12:43.777] [DEBUG] vide - [39mSkipped copy of resource [mobile\native\iphone\option2@2x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.082
+!MESSAGE [node console][36m[2019-08-12 15:12:43.777] [DEBUG] vide - [39mSkipped copy of resource [mobile\native\iphone\option2@3x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.090
+!MESSAGE [node console][36m[2019-08-12 15:12:43.777] [DEBUG] vide - [39mSkipped copy of resource [mobile\native\iphone\option3@2x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.097
+!MESSAGE [node console][36m[2019-08-12 15:12:43.777] [DEBUG] vide - [39mSkipped copy of resource [mobile\native\iphone\option3@3x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.103
+!MESSAGE [node console][36m[2019-08-12 15:12:43.777] [DEBUG] vide - [39mSkipped copy of resource [mobile\native\iphone\option4@2x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.111
+!MESSAGE [node console][36m[2019-08-12 15:12:43.777] [DEBUG] vide - [39mSkipped copy of resource [mobile\native\iphone\option4@3x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.120
+!MESSAGE [node console][36m[2019-08-12 15:12:43.778] [DEBUG] vide - [39mSkipped copy of resource [mobile\native\iphone\splash-568h@2x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.128
+!MESSAGE [node console][36m[2019-08-12 15:12:43.779] [DEBUG] vide - [39mSkipped copy of resource [mobile\native\iphone\splash-667h@2x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.136
+!MESSAGE [node console][36m[2019-08-12 15:12:43.779] [DEBUG] vide - [39mSkipped copy of resource [mobile\native\iphone\splash-736h@3x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.145
+!MESSAGE [node console][36m[2019-08-12 15:12:43.779] [DEBUG] vide - [39mSkipped copy of resource [mobile\native\iphone\splash-812h@3x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.152
+!MESSAGE [node console][36m[2019-08-12 15:12:43.779] [DEBUG] vide - [39mSkipped copy of resource [mobile\native\iphone\splash-896h@2x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.159
+!MESSAGE [node console][36m[2019-08-12 15:12:43.779] [DEBUG] vide - [39mSkipped copy of resource [mobile\native\iphone\splash-896h@3x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.165
+!MESSAGE [node console][36m[2019-08-12 15:12:43.779] [DEBUG] vide - [39mSkipped copy of resource [mobile\native\iphone\splash@2x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.172
+!MESSAGE [node console][36m[2019-08-12 15:12:43.800] [DEBUG] vide - [39mSkipped copy of resource [tablet\native\ipad\option1@2x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.179
+!MESSAGE [node console][36m[2019-08-12 15:12:43.800] [DEBUG] vide - [39mSkipped copy of resource [tablet\native\ipad\option1@3x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.186
+!MESSAGE [node console][36m[2019-08-12 15:12:43.800] [DEBUG] vide - [39mSkipped copy of resource [tablet\native\ipad\option2@2x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.194
+!MESSAGE [node console][36m[2019-08-12 15:12:43.800] [DEBUG] vide - [39mSkipped copy of resource [tablet\native\ipad\option2@3x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.202
+!MESSAGE [node console][36m[2019-08-12 15:12:43.800] [DEBUG] vide - [39mSkipped copy of resource [tablet\native\ipad\option3@2x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.209
+!MESSAGE [node console][36m[2019-08-12 15:12:43.801] [DEBUG] vide - [39mSkipped copy of resource [tablet\native\ipad\option3@3x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.215
+!MESSAGE [node console][36m[2019-08-12 15:12:43.801] [DEBUG] vide - [39mSkipped copy of resource [tablet\native\ipad\option4@2x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.222
+!MESSAGE [node console][36m[2019-08-12 15:12:43.801] [DEBUG] vide - [39mSkipped copy of resource [tablet\native\ipad\option4@3x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.230
+!MESSAGE [node console][36m[2019-08-12 15:12:43.802] [DEBUG] vide - [39mSkipped copy of resource [tablet\native\ipad\splash.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.238
+!MESSAGE [node console][36m[2019-08-12 15:12:43.802] [DEBUG] vide - [39mSkipped copy of resource [tablet\native\ipad\splash@2x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.246
+!MESSAGE [node console][36m[2019-08-12 15:12:43.802] [DEBUG] vide - [39mSkipped copy of resource [tablet\native\ipad\splashland.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.253
+!MESSAGE [node console][36m[2019-08-12 15:12:43.803] [DEBUG] vide - [39mSkipped copy of resource [tablet\native\ipad\splashland@2x.png].
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.259
+!MESSAGE [node console][36m[2019-08-12 15:12:43.813] [DEBUG] vide - [39mFinished copy of resources.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.266
+!MESSAGE [node console][36m[2019-08-12 15:12:43.827] [DEBUG] vide - [39mIgnored 'C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\component.metadata' : This is not required to copy. This is export specific entity.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.274
+!MESSAGE [node console][36m[2019-08-12 15:12:43.913] [DEBUG] vide - [39mIgnored 'C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\modules' : This is not required to copy. This is export specific entity.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.282
+!MESSAGE [node console][36m[2019-08-12 15:12:43.918] [DEBUG] vide - [39mIgnored 'C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\resources' : This is not required to copy. This is export specific entity.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.290
+!MESSAGE [node console][36m[2019-08-12 15:12:44.106] [DEBUG] vide - [39mIgnored 'C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports\.temp\import197306505\themes' : This is not required to copy. This is export specific entity.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.296
+!MESSAGE [node console][36m[2019-08-12 15:12:44.119] [DEBUG] vide - [39mCopying is successful.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.303
+!MESSAGE [node console][36m[2019-08-12 15:12:44.119] [DEBUG] vide - [39mGenerating delta structure
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.310
+!MESSAGE [node console][36m[2019-08-12 15:12:44.176] [DEBUG] vide - [39mBuilding new action id - content map
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.752
+!MESSAGE [node console][36m[2019-08-12 15:12:44.750] [DEBUG] vide - [39mRemoved .temp directory in  C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\.imports
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:44.760
+!MESSAGE [node console][36m[2019-08-12 15:12:44.751] [DEBUG] vide - [39mTime to import: 2781ms
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:45.077
+!MESSAGE [node console][36m[2019-08-12 15:12:45.075] [DEBUG] vide - [39mDevice detection :: Spawning child process : D:\kony8.1\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\493\1\.cp\konywebstudio\nw\nw_win\node.exe D:\kony8.1\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\493\1\.cp\konywebstudio\lib\usbDeviceDetection\deviceDetection.js
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:45.086
+!MESSAGE [node console][32m[2019-08-12 15:12:45.084] [INFO] vide - [39mWeb App .webapps
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:45.383
+!MESSAGE [node console][36m[2019-08-12 15:12:45.381] [DEBUG] vide - [39mEventEmitted: proxyServiceStart200[...]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:45.390
+!MESSAGE [node console][36m[2019-08-12 15:12:45.381] [DEBUG] vide - [39mEventEmitted: authServiceStart200[...]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:45.397
+!MESSAGE [node console][32m[2019-08-12 15:12:45.381] [INFO] vide - [39mRequest consumer Id
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:45.403
+!MESSAGE [node console][36m[2019-08-12 15:12:45.382] [DEBUG] vide - [39mmaking CONNECT request
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:45.410
+!MESSAGE [node console][32m[2019-08-12 15:12:45.383] [INFO] vide - [39musing proxy server: http://proxy.banco.mercantilsf.com:8080
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:45.417
+!MESSAGE [node console][32m[2019-08-12 15:12:45.385] [INFO] vide - [39mResource Service started on port 5095
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:45.424
+!MESSAGE [node console][36m[2019-08-12 15:12:45.385] [DEBUG] vide - [39mEventEmitted: resourceServiceStart200[5095]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:45.431
+!MESSAGE [node console][32m[2019-08-12 15:12:45.385] [INFO] vide - [39mFunctional Preview Server started on port 8888
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:45.439
+!MESSAGE [node console][36m[2019-08-12 15:12:45.385] [DEBUG] vide - [39mEventEmitted: functionalPreviewStart200[8888]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:45.447
+!MESSAGE [node console][32m[2019-08-12 15:12:45.385] [INFO] vide - [39mNotifier Service started on port 5099
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:45.462
+!MESSAGE [node console][36m[2019-08-12 15:12:45.385] [DEBUG] vide - [39mEventEmitted: kvNotifierStart200[5099]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:45.471
+!MESSAGE [node console][36m[2019-08-12 15:12:45.385] [DEBUG] vide - [39mAddon server listening on port 9095
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:45.481
+!MESSAGE [node console][36m[2019-08-12 15:12:45.386] [DEBUG] vide - [39mAddon server is up!!
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:45.887
+!MESSAGE [node console]Loading[config]..D:\kony8.1\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\493\1\.cp\konywebstudio\config\default.js
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:45.897
+!MESSAGE [node error]Error while retrieving Visualizer metadata at C:\Users\b703079\Kony Visualizer\vizdata\.metadata :: Error: ENOENT: no such file or directory, open 'C:\Users\b703079\Kony Visualizer\vizdata\.metadata'
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:45.906
+!MESSAGE [node console]Workspace dir :: konyworkspace
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:45.915
+!MESSAGE [node console]Couldn't find java home.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:45.930
+!MESSAGE [node console][32m[2019-08-12 15:12:45.921] [INFO] ~~~~ - [39mUSB Detection :: Device monitoring started.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:47.670
+!MESSAGE [node console][36m[2019-08-12 15:12:47.668] [DEBUG] vide - [39mIn KONYIQ start
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:47.679
+!MESSAGE [node error](node:932) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:47.689
+!MESSAGE [node console][36m[2019-08-12 15:12:47.669] [DEBUG] vide - [39mKony IQ i18n server is started.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:47.699
+!MESSAGE [node console][36m[2019-08-12 15:12:47.669] [DEBUG] vide - [39mIn KSPree start
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:47.710
+!MESSAGE [node console][36m[2019-08-12 15:12:47.669] [DEBUG] vide - [39mEventEmitted: kvAddonStart200[9095]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:47.790
+!MESSAGE [node console]Hike engine server is started.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:47.802
+!MESSAGE [node console]Default tours are copied to C:\Users\b703079\Kony IQ\iq_addons_cache\hikeengine\8.4\guidedtours
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:48.273
+!MESSAGE [node console][36m[2019-08-12 15:12:48.269] [DEBUG] vide - [39msendRequest: response statusCode = 404
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:48.290
+!MESSAGE [node console][36m[2019-08-12 15:12:48.271] [DEBUG] vide - [39mmaking CONNECT request
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:48.656
+!MESSAGE [node console][36m[2019-08-12 15:12:48.654] [DEBUG] vide - [39msendRequest: response statusCode = 302
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:48.666
+!MESSAGE [node console][36m[2019-08-12 15:12:48.655] [DEBUG] vide - [39mmaking CONNECT request
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:49.026
+!MESSAGE [node console][36m[2019-08-12 15:12:49.024] [DEBUG] vide - [39msendRequest: response statusCode = 200
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:49.035
+!MESSAGE [node console][36m[2019-08-12 15:12:49.024] [DEBUG] vide - [39min __getRequestTokenInternal__
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:49.044
+!MESSAGE [node console][36m[2019-08-12 15:12:49.026] [DEBUG] vide - [39mmaking CONNECT request
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:12:49.397
+!MESSAGE [node console][32m[2019-08-12 15:12:49.395] [INFO] vide - [39mkvauth module was initialized correctly
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:13:08.797
+!MESSAGE [node console][31m[2019-08-12 15:13:08.794] [ERROR] vide - [39mError downloading welcome screen:  connect ETIMEDOUT 143.204.158.51:80
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:13:08.937
+!MESSAGE Node Server state :true
+
+!ENTRY com.pat.tool.keditor 4 0 2019-08-12 15:13:10.098
+!MESSAGE Connection refused: connect
+!STACK 0
+java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at sun.net.NetworkClient.doConnect(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.followRedirect0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.followRedirect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.kony.studio.browser.api.ProjectInformationRequest.getVizVersions(ProjectInformationRequest.java:56)
+	at com.kony.studio.browser.api.ProjectInformationRequest.getVizVersionDetails(ProjectInformationRequest.java:112)
+	at com.kony.studio.StudioContext.readVisualizerVersionInfo(StudioContext.java:280)
+	at com.kony.studio.StudioContext.setCurrentGAVersion(StudioContext.java:238)
+	at com.kony.studio.browser.VisualizerBrowserView.init(VisualizerBrowserView.java:61)
+	at org.eclipse.ui.part.ViewPart.init(ViewPart.java:122)
+	at org.eclipse.ui.internal.ViewReference.initialize(ViewReference.java:143)
+	at org.eclipse.ui.internal.e4.compatibility.CompatibilityPart.create(CompatibilityPart.java:306)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:56)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:877)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.processAnnotated(InjectorImpl.java:857)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.inject(InjectorImpl.java:119)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.internalMake(InjectorImpl.java:333)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.make(InjectorImpl.java:254)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.make(ContextInjectionFactory.java:162)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.createFromBundle(ReflectionContributionFactory.java:102)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.doCreate(ReflectionContributionFactory.java:71)
+	at org.eclipse.e4.ui.internal.workbench.ReflectionContributionFactory.create(ReflectionContributionFactory.java:53)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ContributedPartRenderer.createWidget(ContributedPartRenderer.java:129)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:949)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:633)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$6.run(PartRenderingEngine.java:526)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:511)
+	at org.eclipse.e4.ui.workbench.renderers.swt.ElementReferenceRenderer.createWidget(ElementReferenceRenderer.java:61)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createWidget(PartRenderingEngine.java:949)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:633)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:735)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$2(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$7.run(PartRenderingEngine.java:700)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:685)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:62)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:645)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:735)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$2(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$7.run(PartRenderingEngine.java:700)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:685)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.processContents(SWTPartRenderer.java:62)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveRenderer.processContents(PerspectiveRenderer.java:59)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:645)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeCreateGui(PartRenderingEngine.java:735)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.access$2(PartRenderingEngine.java:706)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$7.run(PartRenderingEngine.java:700)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.createGui(PartRenderingEngine.java:685)
+	at org.eclipse.e4.ui.workbench.renderers.swt.PerspectiveStackRenderer.showTab(PerspectiveStackRenderer.java:103)
+	at org.eclipse.e4.ui.workbench.renderers.swt.LazyStackRenderer$1.handleEvent(LazyStackRenderer.java:65)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler$1.run(UIEventHandler.java:41)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:180)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:150)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4688)
+	at org.eclipse.e4.ui.internal.workbench.swt.E4Application$1.syncExec(E4Application.java:205)
+	at org.eclipse.e4.ui.services.internal.events.UIEventHandler.handleEvent(UIEventHandler.java:38)
+	at org.eclipse.equinox.internal.event.EventHandlerWrapper.handleEvent(EventHandlerWrapper.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:197)
+	at org.eclipse.equinox.internal.event.EventHandlerTracker.dispatchEvent(EventHandlerTracker.java:1)
+	at org.eclipse.osgi.framework.eventmgr.EventManager.dispatchEvent(EventManager.java:230)
+	at org.eclipse.osgi.framework.eventmgr.ListenerQueue.dispatchEventSynchronous(ListenerQueue.java:148)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.dispatchEvent(EventAdminImpl.java:135)
+	at org.eclipse.equinox.internal.event.EventAdminImpl.sendEvent(EventAdminImpl.java:78)
+	at org.eclipse.equinox.internal.event.EventComponent.sendEvent(EventComponent.java:39)
+	at org.eclipse.e4.ui.services.internal.events.EventBroker.send(EventBroker.java:80)
+	at org.eclipse.e4.ui.internal.workbench.UIEventPublisher.notifyChanged(UIEventPublisher.java:58)
+	at org.eclipse.emf.common.notify.impl.BasicNotifierImpl.eNotify(BasicNotifierImpl.java:374)
+	at org.eclipse.e4.ui.model.application.ui.advanced.impl.PerspectiveStackImpl.setSelectedElement(PerspectiveStackImpl.java:135)
+	at org.eclipse.e4.ui.model.application.ui.advanced.impl.PerspectiveStackImpl.setSelectedElement(PerspectiveStackImpl.java:1)
+	at org.eclipse.ui.internal.WorkbenchPage.setPerspective(WorkbenchPage.java:3933)
+	at org.eclipse.ui.internal.Workbench.showPerspective(Workbench.java:2875)
+	at org.eclipse.ui.internal.Workbench.showPerspective(Workbench.java:2815)
+	at com.kony.ide.paas.branding.KonyStudioStartup$1.run(Unknown Source)
+	at org.eclipse.ui.internal.UILockListener.doPendingWork(UILockListener.java:164)
+	at org.eclipse.ui.internal.UISynchronizer$3.run(UISynchronizer.java:158)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:135)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4145)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3762)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:140)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:611)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:13:10.189
+!MESSAGE javaLibPath->D:\kony8.1\Kony_Visualizer_Enterprise;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:/kony8.1/Kony_Visualizer_Enterprise/jre/bin/server;D:/kony8.1/Kony_Visualizer_Enterprise/jre/bin;D:/kony8.1/Kony_Visualizer_Enterprise/jre/lib/amd64;C:\Program Files (x86)\CA\SC\CAWIN\;C:\Desarrollo\oraclexe\app\oracle\product\10.2.0\server\bin;C:\Program Files\Java\jre1.8.0_121\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\CA\SC\Csam\SockAdapter\bin;C:\Program Files (x86)\CA\SC\Csam\SockAdapter\bin64;C:\PROGRA~2\CA\SC\CAM\bin;C:\Program Files (x86)\CA\DSM\bin;C:\Program Files (x86)\CA\SC\CBB\;C:\Java\jdk1.6.0_45\bin;C:\Java\jdk1.8.0_121\bin\bin;C:\Users\b703079\AppData\Local\Microsoft\WindowsApps;C:\Users\b703079\AppData\Local\Programs\Git\cmd;D:\dennis\Acciones\Ant\bin;D:\konyverdadero\Ant\bin;D:\kony8\Ant\bin;D:\kony8.1\Ant\bin;D:\android-sdk\platform-tools;D:\android-sdk\tools;D:\android-sdk\platform-tools;D:\android-sdk\tools;D:\kony8.1\Kony_Visualizer_Enterprise;;.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:13:10.198
+!MESSAGE DYLD_LIBRARY_PATH(Only in Mac)->null
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:13:10.209
+!MESSAGE JAVACEF_PATH->null
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:13:10.218
+!MESSAGE Invoking windows configure libs
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:13:10.406
+!MESSAGE Chrome lib location->D:\kony8.1\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\492\1\.cp\win64_build\third_party\chromium_loader
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:13:10.415
+!MESSAGE CEF lib location->D:\kony8.1\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\492\1\.cp\win64_build\third_party\cef_runtime\win64
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:13:10.424
+!MESSAGE java.library.path->D:\kony8.1\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\492\1\.cp\win64_build\third_party\chromium_loader;D:\kony8.1\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\492\1\.cp\win64_build\third_party\cef_runtime\win64
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:13:10.434
+!MESSAGE fieldSysPath->private static java.lang.String[] java.lang.ClassLoader.sys_paths
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:13:10.444
+!MESSAGE java.library.path configured
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:13:10.455
+!MESSAGE Invoking chromebrowser.embed()
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:13:12.525
+!MESSAGE Invoking vide init()
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:13:12.537
+!MESSAGE Invoking vide initiated
+
+!ENTRY org.eclipse.ui 4 0 2019-08-12 15:13:14.596
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4397)
+	at org.eclipse.swt.SWT.error(SWT.java:4312)
+	at org.eclipse.swt.SWT.error(SWT.java:4283)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:472)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:344)
+	at org.eclipse.swt.widgets.Text.getText(Text.java:1345)
+	at org.eclipse.ui.internal.quickaccess.QuickAccessContents$4$1.run(QuickAccessContents.java:550)
+	at org.eclipse.swt.widgets.Display.runTimer(Display.java:4271)
+	at org.eclipse.swt.widgets.Display.messageProc(Display.java:3358)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessageW(Native Method)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(OS.java:2549)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3757)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:140)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:611)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:13:18.721
+!MESSAGE [node error](node:932) [DEP0106] DeprecationWarning: crypto.createDecipher is deprecated.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:13:20.373
+!MESSAGE Found installation dir: D:\kony8.1\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 4 0 2019-08-12 15:13:37.480
+!MESSAGE Connection refused: connect
+!STACK 0
+java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at sun.net.NetworkClient.doConnect(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.followRedirect0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.followRedirect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.kony.studio.browser.api.ProjectInformationRequest.getVizVersions(ProjectInformationRequest.java:56)
+	at com.kony.studio.browser.api.ProjectInformationRequest.getVizVersionDetails(ProjectInformationRequest.java:112)
+	at com.kony.studio.StudioContext.readVisualizerVersionInfo(StudioContext.java:280)
+	at com.kony.studio.StudioContext.getKonyVizVersion(StudioContext.java:209)
+	at com.kony.accounts.util.KonyPaasAccountManager.getUserKey(KonyPaasAccountManager.java:65)
+	at com.kony.accounts.util.KonyPaasAccountManager.initDefaultAuthHelper(KonyPaasAccountManager.java:111)
+	at com.kony.studio.browser.services.ConnectToSavedSessionService.execute(ConnectToSavedSessionService.java:33)
+	at com.kony.studio.browser.services.ServiceHandlerRouter.handle(ServiceHandlerRouter.java:141)
+	at com.kony.studio.browser.services.VizStudioServiceRegistry$37.handle(VizStudioServiceRegistry.java:315)
+	at com.kony.studio.viz.api.handlers.Vide._onVizMessageReceived_(Unknown Source)
+	at com.kony.studio.viz.api.handlers.Vide$25.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY com.pat.tool.keditor 4 0 2019-08-12 15:13:37.497
+!MESSAGE Error while retrieving saved user session
+!STACK 0
+java.lang.NullPointerException
+	at com.kony.accounts.util.KonyPaasAccountManager.getUserKey(KonyPaasAccountManager.java:65)
+	at com.kony.accounts.util.KonyPaasAccountManager.initDefaultAuthHelper(KonyPaasAccountManager.java:111)
+	at com.kony.studio.browser.services.ConnectToSavedSessionService.execute(ConnectToSavedSessionService.java:33)
+	at com.kony.studio.browser.services.ServiceHandlerRouter.handle(ServiceHandlerRouter.java:141)
+	at com.kony.studio.browser.services.VizStudioServiceRegistry$37.handle(VizStudioServiceRegistry.java:315)
+	at com.kony.studio.viz.api.handlers.Vide._onVizMessageReceived_(Unknown Source)
+	at com.kony.studio.viz.api.handlers.Vide$25.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:13:43.213
+!MESSAGE [node error]No hay instancias disponibles.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:13:43.221
+!MESSAGE [node error]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:13:44.709
+!MESSAGE [node error]No hay instancias disponibles.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:13:44.720
+!MESSAGE [node error]
+
+!ENTRY com.pat.tool.keditor 4 0 2019-08-12 15:13:45.603
+!MESSAGE Connection refused: connect
+!STACK 0
+java.net.ConnectException: Connection refused: connect
+	at java.net.DualStackPlainSocketImpl.connect0(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at sun.net.NetworkClient.doConnect(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.openServer(Unknown Source)
+	at sun.net.www.http.HttpClient.<init>(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.http.HttpClient.New(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getNewHttpClient(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.plainConnect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.connect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.followRedirect0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.followRedirect(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(Unknown Source)
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+	at com.kony.studio.browser.api.ProjectInformationRequest.getVizVersions(ProjectInformationRequest.java:56)
+	at com.kony.studio.browser.api.ProjectInformationRequest.getVizVersionDetails(ProjectInformationRequest.java:112)
+	at com.kony.studio.StudioContext.readVisualizerVersionInfo(StudioContext.java:280)
+	at com.kony.studio.StudioContext.getKonyVizVersion(StudioContext.java:209)
+	at com.kony.accounts.util.KonyPaasAccountManager.getUserKey(KonyPaasAccountManager.java:65)
+	at com.kony.accounts.util.KonyPaasAccountManager.logout(KonyPaasAccountManager.java:225)
+	at com.kony.studio.browser.services.PassLogoutService.execute(PassLogoutService.java:43)
+	at com.kony.studio.browser.services.ServiceHandlerRouter.handle(ServiceHandlerRouter.java:141)
+	at com.kony.studio.browser.services.VizStudioServiceRegistry$4.handle(VizStudioServiceRegistry.java:47)
+	at com.kony.studio.viz.api.handlers.Vide._onVizMessageReceived_(Unknown Source)
+	at com.kony.studio.viz.api.handlers.Vide$25.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY com.pat.tool.keditor 4 0 2019-08-12 15:13:45.614
+!MESSAGE Exception occured, please see the console log for more details.
+!STACK 0
+java.lang.NullPointerException
+	at com.kony.accounts.util.KonyPaasAccountManager.getUserKey(KonyPaasAccountManager.java:65)
+	at com.kony.accounts.util.KonyPaasAccountManager.logout(KonyPaasAccountManager.java:225)
+	at com.kony.studio.browser.services.PassLogoutService.execute(PassLogoutService.java:43)
+	at com.kony.studio.browser.services.ServiceHandlerRouter.handle(ServiceHandlerRouter.java:141)
+	at com.kony.studio.browser.services.VizStudioServiceRegistry$4.handle(VizStudioServiceRegistry.java:47)
+	at com.kony.studio.viz.api.handlers.Vide._onVizMessageReceived_(Unknown Source)
+	at com.kony.studio.viz.api.handlers.Vide$25.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:13:45.953
+!MESSAGE [node error]No hay instancias disponibles.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:13:45.963
+!MESSAGE [node error]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:13:46.096
+!MESSAGE [node console]Initial scan complete. Ready for changes.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:13:53.697
+!MESSAGE konyplugins.xml is copied to C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\Sample successfully.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:13:55.774
+!MESSAGE [node error]No hay instancias disponibles.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:13:55.784
+!MESSAGE [node error]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:13:57.668
+!MESSAGE Found installation dir: D:\kony8.1\Kony_Visualizer_Enterprise
+!SESSION 2019-08-12 15:14:09.567 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_151
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=es_VE
+Framework arguments:  -perspective com.pat.tool.keditor.perspective.KonyPerspective -application org.eclipse.ui.ide.workbench -product com.kony.ide.paas.branding.studio
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -perspective com.pat.tool.keditor.perspective.KonyPerspective -application org.eclipse.ui.ide.workbench -product com.kony.ide.paas.branding.studio
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-08-12 15:14:44.507
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY org.eclipse.ui 2 0 2019-08-12 15:14:44.962
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2019-08-12 15:14:44.962
+!MESSAGE Defining a key binding with no key sequence has no effect: plug-in='com.pat.tool.keditor', id='com.pat.tool.keditor.cleanAndBuildCommand'
+!SUBENTRY 1 org.eclipse.ui 2 0 2019-08-12 15:14:44.962
+!MESSAGE Cannot bind to an undefined command: plug-in='com.pat.tool.keditor', id='com.pat.tool.keditor.applicationpublish'
+
+!ENTRY com.kony.ide.paas.branding 1 0 2019-08-12 15:14:45.380
+!MESSAGE Time taken for loading Studio plugin: 379
+
+!ENTRY com.kony.ide.paas.branding 1 0 2019-08-12 15:14:47.125
+!MESSAGE Time taken for loading node plugins: 1737
+
+!ENTRY org.eclipse.ui 4 4 2019-08-12 15:14:47.551
+!MESSAGE Conflicting handlers for com.pat.tool.keditor.command.appviewer: {com.kony.studio.menus.handlers.HelpEventHandler} vs {com.kony.studio.menus.handlers.HelpEventHandler}
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.339
+!MESSAGE Found installation dir: D:\kony8.1\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.426
+!MESSAGE Found installation dir: D:\kony8.1\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.436
+!MESSAGE Found installation dir: D:\kony8.1\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.446
+!MESSAGE Both are same.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.454
+!MESSAGE Found installation dir: D:\kony8.1\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.468
+!MESSAGE Found installation dir: D:\kony8.1\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.481
+!MESSAGE Found installation dir: D:\kony8.1\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.490
+!MESSAGE Found installation dir: D:\kony8.1\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.499
+!MESSAGE Found installation dir: D:\kony8.1\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 2 0 2019-08-12 15:14:49.513
+!MESSAGE Unable to find defaultemumetadata.json file from C:/Users/b703079/Desktop/workspacekony/ProyectoJoseLuis\_ios\defaultemulator\defaultemumetadata.json location.
+
+!ENTRY com.pat.tool.keditor 2 0 2019-08-12 15:14:49.522
+!MESSAGE Unable to get target versions of the mac machine as file 'iOSPropsUnderVisualizer.json' not found.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.534
+!MESSAGE Eclipse opened time: ago 12, 2019 15:14 PM
+
+!ENTRY com.pat.tool.keditor 2 0 2019-08-12 15:14:49.598
+!MESSAGE blackberry_50 key does not exist in the globalpreferences.json file.
+
+!ENTRY com.pat.tool.keditor 2 0 2019-08-12 15:14:49.607
+!MESSAGE blackberry_60 key does not exist in the globalpreferences.json file.
+
+!ENTRY com.pat.tool.keditor 2 0 2019-08-12 15:14:49.615
+!MESSAGE blackberry_70 key does not exist in the globalpreferences.json file.
+
+!ENTRY com.pat.tool.keditor 2 0 2019-08-12 15:14:49.624
+!MESSAGE windows_phone key does not exist in the globalpreferences.json file.
+
+!ENTRY com.pat.tool.keditor 2 0 2019-08-12 15:14:49.631
+!MESSAGE enableMetrics key does not exist in the globalpreferences.json file.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.645
+!MESSAGE PLUGIN DETAILS: com.kony.windows:8.4.27.v201907120000::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.654
+!MESSAGE PLUGIN DETAILS: com.pat.j2me:::false
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.662
+!MESSAGE PLUGIN DETAILS: com.kony.bb10:::false
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.670
+!MESSAGE PLUGIN DETAILS: com.pat.winmobile:::false
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.678
+!MESSAGE PLUGIN DETAILS: com.kony.windowsphone8:8.4.20.v201906060040::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.687
+!MESSAGE PLUGIN DETAILS: com.kony.windowsphone8:8.4.20.v201906060040::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.696
+!MESSAGE PLUGIN DETAILS: com.kony.windows8:8.4.27.v201907112351::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.705
+!MESSAGE PLUGIN DETAILS: com.kony.windows10:8.4.27.v201907112351::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.713
+!MESSAGE PLUGIN DETAILS: com.pat.winmobile6x:::false
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.722
+!MESSAGE PLUGIN DETAILS: com.pat.android:8.4.27.v201907120001::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.731
+!MESSAGE PLUGIN DETAILS: com.pat.tabrcandroid:8.4.27.v201907120001::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.738
+!MESSAGE PLUGIN DETAILS: com.kony.nativecodegen:::false
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.747
+!MESSAGE PLUGIN DETAILS: com.kony.spa:8.4.27.v201907121232::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.756
+!MESSAGE PLUGIN DETAILS: com.kony.desktopweb:8.4.27.v201907121236::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.765
+!MESSAGE PLUGIN DETAILS: com.kony.webcommons:8.4.20.201905292229::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.773
+!MESSAGE PLUGIN DETAILS: com.kony.ios:8.4.27.v201907121858::true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.781
+!MESSAGE USER LOCATION: file:/C:/Users/b703079/user/
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.789
+!MESSAGE IDE BUNDLE LOCATION: /D:/kony8.1/Kony_Visualizer_Enterprise/configuration/org.eclipse.osgi/bundles/505/1/.cp/
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.809
+!MESSAGE 'com.kony.help' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.819
+!MESSAGE 'com.kony.nativecodegen' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.830
+!MESSAGE 'com.kony.cloudtc' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.841
+!MESSAGE 'com.kony.studio.sky' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.851
+!MESSAGE 'com.kony.studio.viz.chrome.mac64' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.869
+!MESSAGE 'com.kony.studio.viz.core.mac64' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.880
+!MESSAGE 'com.kony.studio.viz.nodejs.mac64' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.891
+!MESSAGE 'com.pat.j2me' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.899
+!MESSAGE 'com.kony.bb10' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.907
+!MESSAGE 'com.pat.winmobile' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.918
+!MESSAGE 'com.pat.winmobile6x' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.927
+!MESSAGE 'com.pat.brew' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.935
+!MESSAGE 'com.pat.palm' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.948
+!MESSAGE 'com.pat.playbook' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.959
+!MESSAGE 'com.pat.qt' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.967
+!MESSAGE 'com.pat.andcodeinjection' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.975
+!MESSAGE 'com.pat.bbcodeinjection' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.983
+!MESSAGE 'com.pat.iospolicyinjection' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:49.997
+!MESSAGE 'tk.eclipse.plugin.htmleditor' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:50.005
+!MESSAGE 'com.kony.video' bundle is not installed.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:50.014
+!MESSAGE Plugin Details are stored successfully at C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\konyplugins.xml.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:14:50.429
+!MESSAGE Found installation dir: D:\kony8.1\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:01.673
+!MESSAGE Node server shut down successfull.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:01.683
+!MESSAGE workspace location: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:03.259
+!MESSAGE Node location: D:\kony8.1\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\493\1\.cp\konywebstudio\nw\nw_win\node.exe
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:03.267
+!MESSAGE Node start location: D:\kony8.1\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\493\1\.cp\nw\node_start.bat
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:03.275
+!MESSAGE Starting node server...
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:03.283
+!MESSAGE Found installation dir: D:\kony8.1\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:15.917
+!MESSAGE Executing node startup command: D:\kony8.1\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\493\1\.cp\konywebstudio\nw\nw_win\node.exe app.js console C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis C:\Users\b703079\Kony Visualizer D:\kony8.1\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\493\1\.cp\konywebstudio\nw\nw_win\node.exe --NODE_APP_INSTANCE=vide --NODE_CONFIG={\"testRecorderWebSocketPort\":9111,\"transfer\":{\"codeanalysis\":{\"serverport\":5230}},\"codeanalysis\":{\"serverport\":5230},\"autonomousBot\":{\"serverport\":4210},\"expressServerPort\":5000,\"functionalPreviewPort\":8888,\"monitorAssets\":true,\"vizClientConfig\":{\"enableModelDriven\":false,\"monitorAssets\":true,\"enableCordovaDevelopment\":true,\"autonomousIQServerPort\":4210,\"enableAppGroups\":true,\"isHeadlessBuild\":false,\"enableToolTips\":true,\"isVizSigned\":true,\"enableNativeApi\":true,\"enableAppWizards\":true,\"enableOrientation\":true,\"enableMarketplace\":true,\"enableMVCExtensions\":false,\"enableIQChat\":null},\"isHeadlessBuild\":false,\"addonServerPort\":9095,\"isVizSigned\":true} 
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:15.938
+!MESSAGE Time for node to execute : 10msec
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:15.948
+!MESSAGE ***Started watch for node server...
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:16.256
+!MESSAGE [node console]Loading[config]..D:\kony8.1\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\493\1\.cp\konywebstudio\config\default.js
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:16.265
+!MESSAGE [node error]Error while retrieving Visualizer metadata at C:\Users\b703079\Kony Visualizer\vizdata\.metadata :: Error: ENOENT: no such file or directory, open 'C:\Users\b703079\Kony Visualizer\vizdata\.metadata'
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:16.275
+!MESSAGE [node console]Workspace dir :: C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:16.284
+!MESSAGE [node console]Couldn't find java home.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:17.969
+!MESSAGE [node console]GitDir: C:\Users\b703079\Kony Visualizer\vizdata\.konyvizgit
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:18.224
+!MESSAGE [node console]Viz running in EMBEDDED mode
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:18.235
+!MESSAGE [node console][36m[2019-08-12 15:15:18.229] [DEBUG] vide - [39mIn pullWelcomeScreen ...
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:18.246
+!MESSAGE [node console][36m[2019-08-12 15:15:18.237] [DEBUG] vide - [39mDownload welcome screen: http://download.kony.com/installer/visualizer/WelcomeScreen8400/enterprise-WelcomeScreen8400.zip
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:18.257
+!MESSAGE [node console][36m[2019-08-12 15:15:18.242] [DEBUG] vide - [39mRequesting File from http://download.kony.com/installer/visualizer/WelcomeScreen8400/enterprise-WelcomeScreen8400.zip
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:18.267
+!MESSAGE [node console][36m[2019-08-12 15:15:18.245] [DEBUG] vide - [39mDevice detection :: Spawning child process : D:\kony8.1\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\493\1\.cp\konywebstudio\nw\nw_win\node.exe D:\kony8.1\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\493\1\.cp\konywebstudio\lib\usbDeviceDetection\deviceDetection.js
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:18.278
+!MESSAGE [node console][32m[2019-08-12 15:15:18.256] [INFO] vide - [39mWeb App .webapps
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:18.310
+!MESSAGE [node console][36m[2019-08-12 15:15:18.308] [DEBUG] vide - [39mEventEmitted: proxyServiceStart200[...]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:18.326
+!MESSAGE [node console][36m[2019-08-12 15:15:18.309] [DEBUG] vide - [39mEventEmitted: authServiceStart200[...]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:18.336
+!MESSAGE [node console][32m[2019-08-12 15:15:18.309] [INFO] vide - [39mRequest consumer Id
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:18.356
+!MESSAGE [node console][36m[2019-08-12 15:15:18.310] [DEBUG] vide - [39mmaking CONNECT request
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:18.367
+!MESSAGE [node console][32m[2019-08-12 15:15:18.310] [INFO] vide - [39musing proxy server: http://proxy.banco.mercantilsf.com:8080
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:18.376
+!MESSAGE [node console][32m[2019-08-12 15:15:18.313] [INFO] vide - [39mResource Service started on port 5095
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:18.385
+!MESSAGE [node console][36m[2019-08-12 15:15:18.313] [DEBUG] vide - [39mEventEmitted: resourceServiceStart200[5095]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:18.394
+!MESSAGE [node console][32m[2019-08-12 15:15:18.313] [INFO] vide - [39mFunctional Preview Server started on port 8888
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:18.404
+!MESSAGE [node console][36m[2019-08-12 15:15:18.313] [DEBUG] vide - [39mEventEmitted: functionalPreviewStart200[8888]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:18.414
+!MESSAGE [node console][32m[2019-08-12 15:15:18.313] [INFO] vide - [39mNotifier Service started on port 5099
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:18.423
+!MESSAGE [node console][36m[2019-08-12 15:15:18.314] [DEBUG] vide - [39mEventEmitted: kvNotifierStart200[5099]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:18.433
+!MESSAGE [node console][36m[2019-08-12 15:15:18.314] [DEBUG] vide - [39mAddon server listening on port 9095
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:18.443
+!MESSAGE [node console][36m[2019-08-12 15:15:18.314] [DEBUG] vide - [39mAddon server is up!!
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:18.518
+!MESSAGE [node console]Loading[config]..D:\kony8.1\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\493\1\.cp\konywebstudio\config\default.js
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:18.528
+!MESSAGE [node error]Error while retrieving Visualizer metadata at C:\Users\b703079\Kony Visualizer\vizdata\.metadata :: Error: ENOENT: no such file or directory, open 'C:\Users\b703079\Kony Visualizer\vizdata\.metadata'
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:18.537
+!MESSAGE [node console]Workspace dir :: konyworkspace
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:18.548
+!MESSAGE [node console]Couldn't find java home.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:18.557
+!MESSAGE [node error](node:16244) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:18.567
+!MESSAGE [node console][36m[2019-08-12 15:15:18.548] [DEBUG] vide - [39mIn KONYIQ start
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:18.584
+!MESSAGE [node console][36m[2019-08-12 15:15:18.549] [DEBUG] vide - [39mKony IQ i18n server is started.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:18.592
+!MESSAGE [node console][36m[2019-08-12 15:15:18.549] [DEBUG] vide - [39mIn KSPree start
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:18.601
+!MESSAGE [node console][36m[2019-08-12 15:15:18.549] [DEBUG] vide - [39mEventEmitted: kvAddonStart200[9095]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:18.609
+!MESSAGE [node console]Hike engine server is started.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:18.617
+!MESSAGE [node console][32m[2019-08-12 15:15:18.551] [INFO] ~~~~ - [39mUSB Detection :: Device monitoring started.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:18.626
+!MESSAGE [node console]Default tours are copied to C:\Users\b703079\Kony IQ\iq_addons_cache\hikeengine\8.4\guidedtours
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:19.117
+!MESSAGE [node console][36m[2019-08-12 15:15:19.116] [DEBUG] vide - [39msendRequest: response statusCode = 404
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:19.126
+!MESSAGE [node console][36m[2019-08-12 15:15:19.117] [DEBUG] vide - [39mmaking CONNECT request
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:19.584
+!MESSAGE [node console][36m[2019-08-12 15:15:19.583] [DEBUG] vide - [39msendRequest: response statusCode = 302
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:19.593
+!MESSAGE [node console][36m[2019-08-12 15:15:19.583] [DEBUG] vide - [39mmaking CONNECT request
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:19.988
+!MESSAGE [node console][36m[2019-08-12 15:15:19.987] [DEBUG] vide - [39msendRequest: response statusCode = 200
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:19.997
+!MESSAGE [node console][36m[2019-08-12 15:15:19.987] [DEBUG] vide - [39min __getRequestTokenInternal__
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:20.008
+!MESSAGE [node console][36m[2019-08-12 15:15:19.989] [DEBUG] vide - [39mmaking CONNECT request
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:20.401
+!MESSAGE [node console][32m[2019-08-12 15:15:20.398] [INFO] vide - [39mkvauth module was initialized correctly
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:39.560
+!MESSAGE [node console][31m[2019-08-12 15:15:39.557] [ERROR] vide - [39mError downloading welcome screen:  connect ETIMEDOUT 54.230.80.194:80
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:39.601
+!MESSAGE Node Server state :true
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:39.663
+!MESSAGE [node error](node:16244) [DEP0106] DeprecationWarning: crypto.createCipher is deprecated.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:39.703
+!MESSAGE javaLibPath->D:\kony8.1\Kony_Visualizer_Enterprise;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:/kony8.1/Kony_Visualizer_Enterprise/jre/bin/server;D:/kony8.1/Kony_Visualizer_Enterprise/jre/bin;D:/kony8.1/Kony_Visualizer_Enterprise/jre/lib/amd64;C:\Program Files (x86)\CA\SC\CAWIN\;C:\Desarrollo\oraclexe\app\oracle\product\10.2.0\server\bin;C:\Program Files\Java\jre1.8.0_121\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\CA\SC\Csam\SockAdapter\bin;C:\Program Files (x86)\CA\SC\Csam\SockAdapter\bin64;C:\PROGRA~2\CA\SC\CAM\bin;C:\Program Files (x86)\CA\DSM\bin;C:\Program Files (x86)\CA\SC\CBB\;C:\Java\jdk1.6.0_45\bin;C:\Java\jdk1.8.0_121\bin\bin;C:\Users\b703079\AppData\Local\Microsoft\WindowsApps;C:\Users\b703079\AppData\Local\Programs\Git\cmd;D:\dennis\Acciones\Ant\bin;D:\konyverdadero\Ant\bin;D:\kony8\Ant\bin;D:\kony8.1\Ant\bin;D:\android-sdk\platform-tools;D:\android-sdk\tools;D:\android-sdk\platform-tools;D:\android-sdk\tools;D:\kony8.1\Kony_Visualizer_Enterprise;;.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:39.712
+!MESSAGE DYLD_LIBRARY_PATH(Only in Mac)->null
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:39.722
+!MESSAGE JAVACEF_PATH->null
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:39.731
+!MESSAGE Invoking windows configure libs
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:39.791
+!MESSAGE Chrome lib location->D:\kony8.1\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\492\1\.cp\win64_build\third_party\chromium_loader
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:39.801
+!MESSAGE CEF lib location->D:\kony8.1\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\492\1\.cp\win64_build\third_party\cef_runtime\win64
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:39.810
+!MESSAGE java.library.path->D:\kony8.1\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\492\1\.cp\win64_build\third_party\chromium_loader;D:\kony8.1\Kony_Visualizer_Enterprise\configuration\org.eclipse.osgi\bundles\492\1\.cp\win64_build\third_party\cef_runtime\win64
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:39.820
+!MESSAGE fieldSysPath->private static java.lang.String[] java.lang.ClassLoader.sys_paths
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:39.828
+!MESSAGE java.library.path configured
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:39.838
+!MESSAGE Invoking chromebrowser.embed()
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:39.914
+!MESSAGE Invoking vide init()
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:39.934
+!MESSAGE Invoking vide initiated
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:15:41.517
+!MESSAGE Found installation dir: D:\kony8.1\Kony_Visualizer_Enterprise
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:16:02.378
+!MESSAGE [node error]No hay instancias disponibles.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:16:02.388
+!MESSAGE [node error]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:16:06.918
+!MESSAGE [node error]No hay instancias disponibles.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:16:06.928
+!MESSAGE [node error]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:16:07.343
+!MESSAGE [node error]No hay instancias disponibles.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:16:07.354
+!MESSAGE [node error]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:16:37.440
+!MESSAGE [node error]No hay instancias disponibles.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:16:37.450
+!MESSAGE [node error]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:16:38.085
+!MESSAGE [node error]No hay instancias disponibles.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:16:38.099
+!MESSAGE [node error]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:16:38.218
+!MESSAGE [node console]Initial scan complete. Ready for changes.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:16:39.288
+!MESSAGE [node error]No hay instancias disponibles.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:16:39.300
+!MESSAGE [node error]
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:16:44.819
+!MESSAGE konyplugins.xml is copied to C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\Sample successfully.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:18:15.360
+!MESSAGE konyplugins.xml is copied to C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\parallax4 successfully.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:18:15.843
+!MESSAGE [node console]Initial scan complete. Ready for changes.
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:18:18.497
+!MESSAGE Project got opened: {"MSG_ID":61,"MSG_TYPE":"RESPONSE","CURRENT_PROJECT_NAME":"parallax4","ORIGINAL_REQUEST":{"SERVICE_NAME":"OPEN_PROJECT","MSG_ID":61,"MSG_TYPE":"REQUEST","DATA":{"FORCE":true,"PROJECT_CATEGORY":"app","PROJECT_NAME":"parallax4"}},"CURRENT_PROJECT_CATEGORY":"app","status":{"code":200}}
+
+!ENTRY com.pat.tool.keditor 1 0 2019-08-12 15:18:19.334
+!MESSAGE konyplugins.xml is copied to C:\Users\b703079\Desktop\workspacekony\ProyectoJoseLuis\parallax4 successfully.

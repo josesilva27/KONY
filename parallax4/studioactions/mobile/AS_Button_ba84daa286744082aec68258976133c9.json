@@ -1,0 +1,78 @@
+{
+    "AS_Button_ba84daa286744082aec68258976133c9": {
+        "id": "AS_Button_ba84daa286744082aec68258976133c9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "screen1",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c592628d08de483994d77985b91774f2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "MOVE_ACTION____affcfb27b2fe4a99a5fd68058bba573c",
+            "type": "MOVE_ACTION",
+            "itemType": "FORM",
+            "itemId": "screen1",
+            "widgetId": "arribamove",
+            "itemKUID": "c592628d08de483994d77985b91774f2",
+            "widgetKUID": "e07c1c5c120f4ea2b60f6aae9e700b60",
+            "wType": "FlexContainer",
+            "animationObject": {
+                "left": "-435dp",
+                "anchorPoint": {},
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "delay": "0",
+                "iterationCount": 1,
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
+                "duration": "1000"
+            },
+            "start": "Immediately",
+            "parentAnimation": "MOVE_ACTION____c11c79b393874ed1b63d76e6c6c7e0a9",
+            "animationId": "MOVE_ACTION____affcfb27b2fe4a99a5fd68058bba573c",
+            "displayAnimationId": "MOVE_ACTION____affcfb27b2fe4a99a5fd68058bba573c",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "this.view.arribamove"
+        }, {
+            "id": "MOVE_ACTION____c11c79b393874ed1b63d76e6c6c7e0a9",
+            "type": "MOVE_ACTION",
+            "itemType": "FORM",
+            "itemId": "screen1",
+            "widgetId": "fondoparis",
+            "itemKUID": "c592628d08de483994d77985b91774f2",
+            "widgetKUID": "id1a8ef1da8e4cb19d693e515a337788",
+            "wType": "Image",
+            "animationObject": {
+                "left": "-40%",
+                "anchorPoint": {},
+                "stepConfig": {
+                    "timingFunction": "kony.anim.EASE"
+                }
+            },
+            "config": {
+                "delay": "0",
+                "iterationCount": 1,
+                "fillMode": "kony.anim.FILL_MODE_FORWARDS",
+                "duration": "1000"
+            },
+            "start": "Immediately",
+            "parentAnimation": "MOVE_ACTION____affcfb27b2fe4a99a5fd68058bba573c",
+            "animationId": "MOVE_ACTION____c11c79b393874ed1b63d76e6c6c7e0a9",
+            "displayAnimationId": "MOVE_ACTION____c11c79b393874ed1b63d76e6c6c7e0a9",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "this.view.fondoparis"
+        }]
+    }
+}

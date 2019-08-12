@@ -1,0 +1,34 @@
+{
+    "AS_Button_d774909e8fad4804b5002495b760197c": {
+        "id": "AS_Button_d774909e8fad4804b5002495b760197c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "screen1",
+            "type": "forms",
+            "platform": null,
+            "KUID": "c592628d08de483994d77985b91774f2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "SHOW_ALERT__fdc4cd05d5484448bf873be32a3e2883",
+            "type": "SHOW_ALERT",
+            "alertType": "constants.ALERT_TYPE_INFO",
+            "alertTitle": "ALERTA DE SEGURIDAD",
+            "yesLabel": "OK",
+            "alertMessage": "esta app requiere de un wifi seguro no publico",
+            "messageType": "constant",
+            "parentId": null,
+            "callbackType": null,
+            "alertTitlei18n": null,
+            "yesLabeli18n": null,
+            "noLabeli18n": null,
+            "alertMessagei18n": null,
+            "iconPosition": "constants.ALERT_ICON_POSITION_LEFT",
+            "disabled": null
+        }]
+    }
+}
